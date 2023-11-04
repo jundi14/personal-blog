@@ -1,0 +1,106 @@
+colorScheme = "cyan" #inspired by spelucin avocado noir congo
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["posts"]
+# robots = ""
+disableImageOptimization = false
+disableImageZoom = true
+defaultBackgroundImage = "/img/cover.jpg" # used as default for background images 
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+[header]
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true #show icon to switch theme 
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "bg.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showDate = false
+  showMoreLinkDest = "/posts"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false # only used when layout equals background
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = true #ini perlu dikaji ulang
+  showAuthor = true
+  showHero = true
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = false
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = false
+  showTableOfContents = true
+  showTaxonomies = true
+  showAuthorsBadges = true
+  showWordCount = true
+  showSummary = true
+  sharingLinks = ["twitter", "email", "facebook", "whatsapp", "telegram"]
+
+[list] # pada postingan pada tag beda lagi
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = false
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTaxonomies = false
+  showTableOfContents = false
+  showCards = true # ada outline pada list
+  groupByYear = false
+  cardView = false # berbantuk grid kartu
+  cardViewScreenWidth = false # ukuran grid lebih lebar
+  constrainItemsWidth = false # ukuran kartu lebih tinggi dan mengurangi lebar kartu
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"] #mengecualikan dari sitemap.xml
+
+[taxonomy]
+  showTermCount = true
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
+
+[term]
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
