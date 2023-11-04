@@ -7,7 +7,8 @@ const urlsToCache = [
   '/index.html',
   '/css/main.bundle.min.fbc83612bd2fcc6752eb12b055551f67f86a6b7216aa3264538229deb4b78e8d5bbcad44671b4d3fccd0c94b940472716aed6c4c915.css',
   '/posts/**/index.html',
-  '/favicon.ico'
+  '/favicon.ico',
+  '/fonts/ibmplexsans_regular.otf',
   '/js/*.js'
   // Tambahkan file-file lain yang ingin Anda cache di sini
 ];
