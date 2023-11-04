@@ -35,7 +35,7 @@
     }
   ],
   "display_override": [
-    "browser",
+    "minimal-ui",
     "windows-controls-overlay"
   ],
   "shortcuts": [
@@ -60,7 +60,7 @@
   "categories": [
     "lifestyle"
   ],
-  "display": "standalone",
+  "display": "minimal-ui",
   "edge_side_panel": {
     "preferred_width": 400
   },
