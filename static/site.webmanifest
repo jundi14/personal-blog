@@ -65,4 +65,7 @@
     "preferred_width": 400
   },
   "id": "/"
+"launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+}
 }
