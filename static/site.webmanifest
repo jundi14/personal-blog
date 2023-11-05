@@ -35,7 +35,6 @@
     }
   ],
   "display_override": [
-    "minimal-ui",
     "standalone"
   ],
   "shortcuts": [
