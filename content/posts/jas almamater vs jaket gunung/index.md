@@ -2,7 +2,7 @@
 title: Jas Almamater vs Jaket Gunung
 slug: jas almamater vs jaket gunung
 description: Siapa yang menang?
-summary: Pekan kemarin adalah pekan UTS di kampus, saya masih merenungi kenapa mahasiswa di kampus hampir tidak pernah menggunakan jaket setiap pergi ke kampus, karena menurut saya itu cukup penting.
+summary: Pekan kemarin adalah pekan UTS, saya masih merenungi kenapa mahasiswa di kampus hampir tidak pernah menggunakan jaket setiap pergi ke kampus, dan menurut saya itu cukup penting.
 categories: Coretan
 date: 2022-11-20
 aliases: "/posts/coretan/jas-almamater-vs-jaket-gunung/"
