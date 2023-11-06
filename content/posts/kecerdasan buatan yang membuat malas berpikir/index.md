@@ -3,7 +3,7 @@ title: Chat GPT Besutan Open AI Yang Membuat Kita Malas Berpikir
 slug: Apa itu Chat GPT
 description: Dalam beberapa kasus bisa membantu dalam mengerjakan beberapa hal, membuat
   ide konten misalnya.
-summary: AI besutan OpenAI yaitu **Chat GPT** yang saat ini sedang booming memiliki kemampuan bisa menjawab pertanyaan-pertanyaan umum bahkan spesifik, kamu pasti akan takjub ketika pertama kali mencobanya.
+summary: Salah satu AI, yaitu **Chat GPT** yang saat ini sedang viral memiliki kemampuan bisa menjawab pertanyaan umum bahkan spesifik, kamu pasti akan takjub ketika pertama kali mencobanya.
 categories: Teknologi
 date: 2022-12-20
 tags:

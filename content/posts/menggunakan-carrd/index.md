@@ -4,7 +4,7 @@ date: 2023-07-08
 categories: Blogging
 description: Landing page multifungsi menggunakan carrd.co, inilah rival berat buat linktree
 draft: false
-summary: Landing page multifungsi menggunakan carrd.co, inilah rival yang lebih menarik dibandingkan dengan linktree dengan halaman yang dapat di custom sesuai selera kamu, serta pilihan template yang keren.
+summary: Landing page multifungsi menggunakan carrd.co, rival yang lebih menarik dibandingkan dengan linktree dengan halaman yang dapat di custom sesuai selera dan pilihan template yang ciamik.
 slug: membuat landing page menggunakan carrd co
 showTableOfContents: true
 showComments: true
