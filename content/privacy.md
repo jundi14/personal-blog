@@ -11,7 +11,7 @@ showPagination: false
 
 ## Kebijakan Aplikasi
 
-Saya menggunakan aplikasi dibawah ini untuk mendeploy website saya yang saya simpan datanya pada github dan menjalankan layanan analitik
+Saya menggunakan aplikasi berikut ini untuk mendeploy website dan menjalankan layanan analitik
 
 ### Netlify
 
@@ -25,6 +25,6 @@ Umami tidak mengumpulkan informasi pengenal pribadi apapun dan menganonimkan sem
 
 Lihat [Kebijakan Umami](https://umami.is/docs/faq)
 ***
-## Lisensi Konten
+## Kebijakan Lisensi Konten
 
 Semua konten yang saya tulis di situs ini disebarluaskan di bawah [Lisensi Creative Commons Atribusi-NonKomersial 4.0 Internasional](http://creativecommons.org/licenses/by-nc/4.0/)

@@ -6,5 +6,5 @@ cascade:
   showAuthor: true
 ---
 {{< lead >}}
-Berisi seluruh artikel yang pernah saya tulis selama ini
+Berisi seluruh artikel yang pernah saya tulis selama ini.
 {{< /lead >}}
