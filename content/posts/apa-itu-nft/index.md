@@ -4,7 +4,7 @@ date: 2021-12-05
 categories: Teknologi
 description: NFT menjadi bahan perbincangan hampir di setiap belahan negara, mari
   kita simak pembahasannya.
-summary: Di era saat ini memiliki aset digital merupakan trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama aset digital yang cukup populer saat ini adalah mata uang Bitcoin, Ethereum, dll.
+summary: Di era saat ini memiliki aset digital merupakan trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama aset digital yang cukup populer saat ini adalah mata uang Bitcoin.
 slug: Apa itu nft
 showTableOfContents: true
 showComments: true

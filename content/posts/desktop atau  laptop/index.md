@@ -2,7 +2,8 @@
 title: Dilema, Desktop PC atau Laptop?
 slug: dilema desktop pc atau laptop
 description: Pilihan yang salah sangat tergantung pada pilihan kamu jika kamu memerlukan
-  desktop atau laptop
+  desktop atau laptop.
+summary: Ada dilema saat membeli komputer. Proses pengambilan keputusan membawa bagaimana, yang mana dan faktor yang bergantung pada pilihan di luar harga, merek, dan kenyamanan.
 categories: 'Teknologi '
 date: 2021-12-04
 tags:

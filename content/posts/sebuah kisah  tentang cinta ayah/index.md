@@ -3,7 +3,7 @@ title: Sebuah Kisah Tentang Cinta Ayah
 slug: sebuah kisah tentang cinta ayah
 description: Cinta ayahmu kepada luar biasa, tetapi banyak disimpan dalam hati karena
   kau perempuan
-summary: Ayah di dalam kamar, beberapa kali batuk². Sementara di ruang tamu, ibu sedang ngobrol dgn anak perempuannya. “Cinta ayahmu kepadamu luar biasa, tetapi lebih banyak disimpan dalam hati karena...
+summary: Ayah di dalam kamar, beberapa kali batuk². Sementara di ruang tamu, ibu sedang ngobrol dengan anak perempuannya. “Cinta ayahmu kepadamu luar biasa, tapi lebih banyak disimpan..
 categories: 'Coretan '
 date: 2021-11-28
 tags:
