@@ -1,5 +1,9 @@
 @font-face {
     font-family: 'IBM Plex Sans';
-    src: local(IBM Plex Sans), url('/fonts/IBMPlexSans-Regular.otf'), format('otf');
+    src: url('/fonts/IBMPlexSans-Regular.otf');
     font-display: swap;
+}
+
+html {
+    font-family: 'IBM Plex Sans', sans-serif;
 }
