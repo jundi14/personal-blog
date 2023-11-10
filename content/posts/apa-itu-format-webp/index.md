@@ -49,13 +49,13 @@ Format gambar WebP bisa menghasilkan size yang jauh lebih kecil tanpa mengorbank
 
 WebP sanggup mengompress gambar hingga 26% lebih kecil dari .png dan 25%-34% lebih kecil dari format .jpeg
 
-### Ringan Saat Diload
+### Ringan Saat Dimuat
 
 Dengan ukuran yang lebih kecil sudah pasti ringan saat diload pada browser yang kamu gunakan, sehingga akan menjadikan pengguna merasakan pengalaman browsing yang lebih mengasyikkan dan memuaskan.
 
 Mengingat gambar adalah konten paling dinanti disaat tulisan lebih mendominasi pada laman web. Supaya tidak bosan.
 
-Dengan menggunakan WebP maka developer website bisa mmenambahkan gambar dengan ukuran yang jauh lebih rendah dan tetap memiliki kualitas yang baikk. 
+Dengan menggunakan WebP maka developer website bisa mmenambahkan gambar dengan ukuran yang jauh lebih rendah dan tetap memiliki kualitas yang baik. 
 
 ## Kekurangan WebP
 
@@ -71,6 +71,6 @@ Inilah browser yang [support format webp](https://developers.google.com/speed/we
 
 Karena format WebP memiliki size yang kecil maka perlu dipertimbangkan untuk digunakan di setiap gambar yang ada pada website kita, tapi khusus untuk logo dan icon format SVG bisa menjadi alternatif.
 
-Namun website dengan format gambar tersebut tidaklah mendukung di perangkat dengan browser yang kurang terupdate.
+Namun website dengan format gambar WebP tidaklah mendukung di perangkat dengan browser yang lawas.
 
-Tapi itu bukanlah hal sulit mengingat pengguna internet sekarang sudah melek teknologi dan dengan perangkat terbaru mereka memudahkan gambar dengan format SVG maupun WebP dengan mudah dilihat pada setiap perangkat genggam ataupun desktop.
+Tapi untuk zaman sekarang sepertinya sangat langka ditemukan browser dengan versi yang sangat lawas, hampir seluruh browser di perangkat terbaru sudah pasti support untuk melihat gambar dalam format WebP.
