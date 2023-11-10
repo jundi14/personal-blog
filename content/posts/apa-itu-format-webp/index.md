@@ -27,17 +27,15 @@ Maka dari itu perlu sebuah gambar yang memiliki kualitas yang bagus dan cukup de
 
 Format gambar SVG (Scalable Vektor Graphic) memiliki sruktur yang berbeda, sederhananya gambar akan di proses menjadi code berformat .xml yang bisa dibaca oleh browser dan aplikasi design grafis vektor seperti Adobe Illustrator, Affinity Design, dan Inkscape.
 
-Biasanya format SVG ini hanya diaplikasikan pada gambar 2D atau dengan desain sederhana, karena format ini tidak bisa diaplikasikan pada sebuah gambar 3D berwarna dengan detail yang cukup banyak.
+Biasanya format SVG ini hanya diaplikasikan pada gambar 2D atau dengan desain sederhana, karena format ini tidak bisa diaplikasikan pada sebuah gambar 3D dengan warna yang banyak dan detail yang rumit.
 
-Biasanya format SVG ini digunakan untuk gambar yang sederhana, misalnya pada logo dan juga icon.
-
-Menggunakan format SVG pada icon dan juga logo juga untuk mempercepat loading pada halaman, karena filenya berukuran lebih kecil dibandingkan format png ataupun jpeg.
+Biasanya format SVG ini digunakan pada logo dan juga icon.
 
 ***
 
 Format SVG yang dipaparkan diatas tidak bisa dijadikan format standar yang akan digunakan pada gambar, kecuali pada icon dan logo.
 
-Maka ada format lain yang lebih terbaru dengan kualiatas yang tidak kalah bagus dibandingkan .jpeg dan .png. 
+Maka ada format lain yang lebih terbaru dengan kualitas yang tidak kalah bagus dibandingkan .jpeg dan .png. 
 
 Inilah **WebP**
 
@@ -63,8 +61,16 @@ Dengan menggunakan WebP maka developer website bisa mmenambahkan gambar dengan u
 
 ### Tidak Support Browser Jadul 
 
-Karena format WebP adalah teknologi yang terbilang cukup baru, maka hanya browser yang sudah terupdate saja yang bisa menampilkan format tersebut.
+Karena format WebP adalah teknologi yang terbilang cukup baru, maka hanya browser yang sudah support saja yang bisa menampilkan format tersebut.
 
-Bukan masalah yang besar kok, update saja browser kamu, inilah [browser yang support webp](https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp).
+Tapi saya yakin sebagian besar pengguna internet memiliki browser yang mendukung di smartphone maupun pada desktop, apalagi dengan perangkat yang selalu muncul dengan teknologi yang semakin canggih.
 
-Sebagian besar browser juga sering kamu gunakan.  
+Inilah browser yang [support format webp](https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp), sebagian besar browser juga sering kita gunakan.
+
+## Kesimpulan
+
+Karena format WebP memiliki size yang kecil maka perlu dipertimbangkan untuk digunakan di setiap gambar yang ada pada website kita, tapi khusus untuk logo dan icon format SVG bisa menjadi alternatif.
+
+Namun website dengan format gambar tersebut tidaklah mendukung di perangkat dengan browser yang kurang terupdate.
+
+Tapi itu bukanlah hal sulit mengingat pengguna internet sekarang sudah melek teknologi dan dengan perangkat terbaru mereka memudahkan gambar dengan format SVG maupun WebP dengan mudah dilihat pada setiap perangkat genggam ataupun desktop.
