@@ -12,7 +12,10 @@ showTableOfContents: true
 draft: true
 ---
 
-## Prolog Sebelum WebP
+## Prolog Sebelum Web
+
+![Format Gambar Website](img/webp/tipe-gambar-website.png "*Source: [yudana](https://www.yudana.id/perbedaan-format-gambar-jpg-png-gif-dan-svg-untuk-website/)*")
+
 Akses cepat ke sebuah website begitu penting, feedback dari website harus singkat demi memenuhi kebutuhan pekerjaan atau sekedar mencari informasi.
 
 Tetapi tidak semua empunya website sadar bahwa format gambar yang menjadi cantiknya sebuah website menjadi faktor tertinggi *lemotnya* website saat diakses.
@@ -24,6 +27,8 @@ Semakin tinggi angka piksel dalam sebuah gambar maka semakin jernih dan detail p
 ## Keajaiban Format SVG
 
 Maka dari itu perlu sebuah gambar yang memiliki kualitas yang bagus dan cukup detail tapi tidak mengorbankan ukuran yang besar, kita sebut saja **SVG** mungkin ini asing juga untuk sebagian besar dari kita.
+
+![Format SVG](img/webp/svg.jpg "*Source: [wikipedia](https://commons.wikimedia.org/)*")
 
 Format gambar SVG (Scalable Vektor Graphic) memiliki sruktur yang berbeda, sederhananya gambar akan di proses menjadi code berformat .xml yang bisa dibaca oleh browser dan aplikasi design grafis vektor seperti Adobe Illustrator, Affinity Design, dan Inkscape.
 
@@ -56,6 +61,12 @@ Dengan ukuran yang lebih kecil sudah pasti ringan saat diload pada browser yang 
 Mengingat gambar adalah konten paling dinanti disaat tulisan lebih mendominasi pada laman web. Supaya tidak bosan.
 
 Dengan menggunakan WebP maka developer website bisa mmenambahkan gambar dengan ukuran yang jauh lebih rendah dan tetap memiliki kualitas yang baik. 
+
+Inilah contoh gambar yang ditampilkan oleh google, tidak ada perbedaan pada sisi kualitas tetapi memiliki ukuran yang lebih kecil 
+
+![Perbandingan Ukuran Foto Antara JPG dan WebP](/img/webp/perbedaan-jpg-dan-webp.png "*Source: [Dev Google](https://developers.google.com/speed/webp/gallery1#sample_image_files_in_jpeg_and_webp_and_the_png_source)*")
+
+Bisa [lihat disini](https://developers.google.com/speed/webp/gallery1#sample_image_files_in_jpeg_and_webp_and_the_png_source) karena gambar yang saya tampilkan hanya screenshot dari sumber utama.
 
 ## Kekurangan WebP
 
