@@ -1,15 +1,15 @@
 ---
-title: Apa Itu WebP, Format Gambar Untuk Website Yang Efisien
+title: Apa Itu WebP? Format Gambar Yang Efisien Untuk Website
 slug: apa itu webp
-description: Format WebP harus menjadi opsi utama saat gambar dimuat di sebuah website, tetapi harus ada gambar format jpg atau png sebagai backup jika ternyata browser yang digunakan jadul.
+description: Format WebP pada gambar menjadi alternatif untuk gambar di sebuah website, karena format webp memliki kompresi gambar yang cukup baik dan tetap mempertahankan kualitas gambar.
 categories: 'Blogging'
-summary: Format WebP harus menjadi opsi utama saat gambar dimuat di sebuah browser, tetapi harus ada gambar format *jpg* atau *png* sebagai backup jika ternyata browser yang digunakan jadul.
-date: 2023-11-08
+summary: Format WebP pada gambar menjadi alternatif untuk gambar di sebuah website, karena format webp memliki kompresi gambar yang cukup baik dan tetap mempertahankan kualitas gambar.
+date: 2023-11-14
 tags: 
     - format
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 ## Prolog Sebelum Web
@@ -80,7 +80,7 @@ Inilah browser yang [support format webp](https://developers.google.com/speed/we
 
 ## Kesimpulan
 
-Karena format WebP memiliki size yang kecil maka perlu dipertimbangkan untuk digunakan di setiap gambar yang ada pada website kita, tapi khusus untuk logo dan icon format SVG bisa menjadi alternatif.
+Karena format WebP memiliki size yang kecil maka perlu dipertimbangkan untuk digunakan di setiap gambar yang ada pada website kita, tapi khusus untuk logo dan icon, format SVG bisa menjadi alternatif.
 
 Namun website dengan format gambar WebP tidaklah mendukung di perangkat dengan browser yang lawas.
 
