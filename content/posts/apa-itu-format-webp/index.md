@@ -12,7 +12,7 @@ showTableOfContents: true
 draft: false
 ---
 
-## Prolog Sebelum Web
+## Prolog Sebelum WebP
 
 ![Format Gambar Website](img/webp/tipe-gambar-website.png "*Source: [yudana](https://www.yudana.id/perbedaan-format-gambar-jpg-png-gif-dan-svg-untuk-website/)*")
 
