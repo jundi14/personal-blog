@@ -36,5 +36,3 @@ Ya. Sudah terlihat bukan tombol kuningnya hehe.. 😁
 Hampir terlupa update halaman ini, bahwa pada tanggal 26 Juni 2023 kemarin saya sudah melakukan sidang skripsi ya walaupun dengan hasil yang kurang memuaskan tapi yang penting lulus dari penantian selama 7 tahun. *upss
 
 Untuk saat ini saya ingin fokus ke meningkatkan kualitas tulisan, rencana dalam jangka dekat ini mau ikutan kelas menulis online agar kalian bisa betah membaca tulisan yang saya ketik --semoga saja-- Aamiinn.
-
-
