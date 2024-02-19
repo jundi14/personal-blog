@@ -32,12 +32,15 @@ Walaupun begitu tetap saja aplikasi mereka yang *niat* ini menjadikan saya memil
 
 Tapi kenapa tidak lagi menggunakan IRC, apalagi sudah berulangkali menggunakan merek ini🙄
 
-## IRC ban yang 'licin'
+### IRC ban yang 'licin'
+
+IRC bawaan pabrikan pastinya menggunakan ban hard compound yang lebih murah dan awet.
+
+Tetapi karena ban hard compound lebih cocok dipake di aspal kering makanya kurang rekomendasi buat di aspal basah. Sebenarnya sah sah saja cuma jangan dibawa ngebut khawatir tergelincir.
 
 Ya itulah yang dikenal orang di media sosial tentang ban IRC, walaupun memang saya sendiri tidak pernah mengalami kecelakaan karena ban licin, pernah tergelincir memang tapi itu karena hal yang wajar karena pengereman yang terlalu mendadak.
 
-Sudah hal yang biasa jika ban hard compound memiliki endurance yang tinggi, tetapi licin jika jalanan mendadakan hujan atau dingin.
+### Mencoba ban merek baru
 
-karena memang tujuannya itu untuk ketahanan.
+Terlalu fanatik pada satu merek saya rasa kurang bagus, ban merek lain harus dicoba biar ngga penasaran dan tau experiencenanya
 
-Jika menginginkan ban yang lengket ke aspal maka ban slick menjadi pilihan, akan tetapi ban itu hanya cocok untuk balapan di aspal yang kering dan tidak bisa digunakan harian karena tidak ada kembangan pada permukaan bannya. yang menjadikan seluruh permukaan ban menyentuh bagian aspal secara maksimal.
