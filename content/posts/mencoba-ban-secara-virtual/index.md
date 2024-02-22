@@ -44,3 +44,6 @@ Ya itulah yang dikenal orang di media sosial tentang ban IRC, walaupun memang sa
 
 Terlalu fanatik pada satu merek saya rasa kurang bagus, ban merek lain harus dicoba biar ngga penasaran dan tau experiencenanya
 
+### Mencoba tidak fanatik
+
+Jangan terlalu fanatik terhadap 1 merek tertentu 
