@@ -89,11 +89,11 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- #[[footer]]
-  # name = "Tags"
+ [[footer]]
+   name = "Tags"
    #pre = "tag"
-   #pageRef = "tags"
-   #weight = 30
+   pageRef = "tags"
+   weight = 30
 
  [[footer]]
    name = "Category"
