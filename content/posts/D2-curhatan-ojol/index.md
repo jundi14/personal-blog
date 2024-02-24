@@ -10,7 +10,7 @@ tags:
 aliases: 
 showComments: true
 showTableOfContents: true
-draft: false
+draft: true
 ---
 
 Setelah Sekian lama akun ojol (Ojek Online) ini mangkrak selama hampir 3 tahun lamanya akhirnya aktif kembali.
