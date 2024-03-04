@@ -1,10 +1,10 @@
 ---
-title: Curhatan Dari Driver Ojol   
-slug: Curhatan Dari Driver Ojol
+title: Curhatan Dari Driver Ojol 'Senior' Tapi Masih Junior 
+slug: Curhatan Driver Ojol
 description: 
 categories: Curhatan
-summary: Sekian lama akun ojol ini mangkrak selama hampir 3 tahun lamanya dan hanya diaktifkan beberapa detik agar tidak di banned oleh pihak grab karena terlalu lama offline.
-date: 2024-02-22
+summary: Sekian lama aplikasi akun ojol ini mangkrak selama hampir 3 tahun lamanya dan hanya diaktifkan beberapa saat agar tidak di banned oleh pihak grab karena terlalu lama offline.
+date: 2024-02-29
 tags: 
     -
 aliases: 
@@ -13,56 +13,74 @@ showTableOfContents: true
 draft: true
 ---
 
-Setelah Sekian lama akun ojol (Ojek Online) ini mangkrak selama hampir 3 tahun lamanya akhirnya aktif kembali.
+## Sebenarnya Senior
 
-Karena pada tahun 2020 kalau tidak salah saya mendapati akun ojol saya ke banned karena selama 6 bulan terakhir tidak terdeteksi aktif oleh server ojolnya.
+Pada Oktober 2018 silam saya mendaftar menjadi mitra GRAB dan saya hanya mencoba selama 1 bulan saja karena posisi saat itu sebenarnya sudah ada pekerjaan dan kepengen mencari cuan tambahan dengan menjadi abang-abang ojol (ojek online).
 
-Alhasil karena saya ingin mencoba cari cuan tambahan lagi saya perlu mengurus berkas terlebih dahulu, yaitu membuat SKCK (Surat Keterangan Catatan Kepolisian) supaya bisa diaktifkan kembali.
+Tapi karena pekerjaan utama saya tidak bisa serius, alhasil teguran secara tak langsung yang didapat dari teman saya.
 
-Saat 2018 silam saya mendaftar menjadi mitra GRAB saya hanya mencoba selama 1 bulan saja karena posisi saat itu sebenarnya sudah ada pekerjaan dan mencari tambahan dengan menjadi ojek online.
+Demi menjaga nama baik saya (ceilah..) akhirnya saya tidak lagi mencoba peruntungan dari ojol ini dan saya hanya fokus di pekerjaan yang sudah saya lakoni sebelumnya.
 
-Tapi karena pada akhirnya pekerjaan saya ngga bisa serius, akhirnya mendapatkan teguran secara tak langsung yang saya dapat dari teman saya.
+Ya pada akhirnya saya off selama 2 tahun kalau tidak salah dan pihak grab menonaktifkan akun saya karena sudah lama tidak terdekteksi aktif ngojol.
 
-Demi menjaga nama baik saya (ceilah..) akhirya saya tidak lagi mencoba peruntungan dari ojol ini dan saya hanya fokus saja di pekerjaan yang sudah saya lakoni sebelumnya.
+Setelah Sekian lama akun Grab ini mangkrak selama hampir 3 tahun lamanya akhirnya saya mencoba lagi aplikasinya.
 
-ya pada akhirnya saya off selama berbulan bulan dan mungkin saja di GRAb heran karena saya off secara mendadak dan menonaktifkan akun saya.
+Dan saya perlu mengurus berkas terlebih dahulu, yaitu membuat SKCK (Surat Keterangan Catatan Kepolisian) supaya bisa diaktifkan kembali.
 
-___
+***
 
-semenjak awal februari 2024 saya sudah seringkali keluar rumah sore sampai malam, demi mencari peruntungan dari ojol ini.
+## Menjadi Junior Lagi
+
+Semenjak awal februari 2024 saya sudah seringkali keluar rumah sore sampai malam, demi mencari peruntungan dari ojol ini.
 
 Ya memang hanya peruntungan karena yg namanya ojol kerja by order online, hehe
 
-kadang dari sore sampai malam dapet sampai 5 orderan, kadang hanya 1 atau 2 atau bahkan nihil.
+Kadang dari sore sampai malam dapet sampai 5 orderan, kadang hanya 1 atau 2 atau bahkan nihil.
 
-saya melihat sistem grab saat ini lebih mudah untuk digunkan entah itu fitur maupun pengalaman di aplikasinya.
+Saya melihat sistem grab saat ini lebih mudah untuk digunakan entah itu fitur maupun pengalaman di aplikasinya.
 
-tapi memang untuk melihat keuntungan disini memang tidaklah besar, kecuali kerja full hanya ojol saja yang bisa dapat keuntungan yang berlebih karena ada sistem bonusnya, jika sudah mendapatkan beberapa orderan tertentu di jam yang telah ditentukan juga.
+Tapi memang untuk melihat keuntungan disini memang tidaklah besar, kecuali kerja full hanya ojol saja yang bisa dapat keuntungan yang berlebih karena ada sistem bonusnya, bonus didapat jika sudah mendapatkan orderan tertentu di jam yang telah ditentukan.
 
-ya lumayanlah nongkrong menunggu orderan sambil belajar nulis artikel di blog ini yang sama sama sudah mangkrak beberapa bulan, haha, kallau dilihat lihat memang masih sangat sedikit postingan disini.
+Ya lumayanlah nongkrong menunggu orderan sambil belajar menulis artikel di blog ini yang sama sama sudah mangkrak beberapa bulan. haha.
 
-pengalaman saya setelah menjalani selama menjalani selama beberapa hari ini jadi mengenal banyak tempat yang sebenarnya dkeet tapi ngga pernah mengunjungi ituu
+-Sudahlah postingan sedikit jarang update pula.-
 
-karena orderan ke arah sanna jadi tahu lokasi yg sama sekali ngga pernah saya kunjungi walau dekat sebenarnyaa. :)
+Pengalaman saya setelah menjalani selama beberapa hari ini jadi mengenal banyak tempat yang sebenarnya dekat tapi tidak pernah terpikirkan untuk dikunjungi.
 
-kemudian hal lain yang tidak kalah menarik adalah customer rela membayar sesuatu yg menurut saya rada lumayan mahal hanya untuk memenuhi kebutuhan perutnya saja, saya masih inget waktu itu dari daerah yang jarang ada warung membeli 2 porsi bubur ayam harganya 40 rb sudah termasuk ongkir.
+Kemudian hal lain yang tidak kalah menarik adalah customer rela membayar sesuatu yg menurut saya cukup mahal hanya untuk memenuhi kebutuhan perutnya, dibandingkan dengan kebutuhan makanan saya sehari-hari. 
 
-hal yang wajar sebenarnya mengingat di sekitarnya ngga ada yang jual bubur ayam dan mungkin karena alasan mager juga, (bisa jadi) makanya rela membayar sejumlah uang yang bisa saya belikan 5 porsi bubur ayam di warkop berkah
+Waktu itu ada orderan yang jaraknya cukup jauh yaitu hampir 6 km, rata rata saya mendapat orderan pada jarak kurang dari 4 km.
+
+Pada detail orderan grabgood tersebut tertulis bahwa dia memesan bubur ayam 2 porsi dan jika di total dengan ongkos antar menjadi sebesar Rp 38.000.
+
+Saya pikir ini harga yang cukup lumayan untuk 2 porsi bubur ayam, tapi dengan jarak yang cukup jauh ini sebenarnya sangat wajar.
+
+Sampailah saya pada rumah customer yang ternyata di sekitarnya tidak ada penjual nasi uduk, bubur ayam atau semacamnya yang biasa digunakan untuk menu sarapan.
+
+Serta lokasi rumah customer berada di area yang cukup banyak pepohonan, yang saya rasa cukup membuat bulu kuduk berdiri ketika hari sudah mulai gelap.
+
+***
  
-Ya begitulah layanan antar jemput makanan di grab food memudahkan orang orang yang mempunyai waktu sedikit untuk membeli makanan atau bahkan memasak, dan ingin membeli makanan dengan hanya sentuhan jarinya saja.
+Ya begitulah layanan antar jemput makanan di grabfood memudahkan orang orang yang mempunyai sedikit waktu, alih alih memasak, dan ingin membeli makanan dengan hanya sentuhan jarinya saja.
 
-Dan yang pasti ada pembagian hasil yang disisihkan untuk pihak korporet si grab ini, makanya klw lihat harga di layanan grab food sebenarnya terbilang cukup mahal dibandingkan membeli langsung.
+Ada pembagian hasil yang disisihkan untuk pihak grab ini yaitu sebesar 20% dari total ongkos kirim yang nanti akan dipotong lewat aplikasi mitra grab, dan jika kamu melihat harga makanan di layanan grab food sebenarnya terbilang cukup mahal dibanding membelinya secara langsung.
 
-Tapi tetap saja ada kendala titik antar yang biasanya orderan grab food yang kadangkala tidak diibuat presisi, sehingga kadang masih perlu bertanya ke orang sekitar titik itu.
+Tapi tetap saja ada kendala titik antar yang kadangkala tidak presisi, sehingga terkadang masih perlu bertanya ke orang sekitar.
 
-tapi itulah masalah yang sudah pasti sring dialami oleh kurir paket, dan menjadi ojol tidak jauh bedanya.
+Itulah masalah yang sudah pasti sering dialami oleh kurir paket, menjadi ojol tidak jauh bedanya.
 
-saat yang paling nyesek adalah ketika udah niat ngojol dari sore sampai malam teryata ngga ada yangn order satupun, tapi okelah namanya usaha kan pasti ada aja naik turunnya.
+## Bonus Yang Dikurangi
 
-yang perlu digaris bawahi adalah keuntungan untuk pihak driver ini kurang tinggi menurut saya, karena klw mau dibandinkan dengan ojek pangkalan jelas lebih tinggi ojek pangkalan tarifnya.
+Saat yang paling membuat sesak adalah, ketika udah niat ngojol dari sore sampai malam teryata ngga ada yang order satupun, tapi namanya usaha kan pasti ada saja naik turunnya.
 
-Tapi mengingat sekarang sudah zaman online sehingga peluang dapet orderan seharusnya lebih tinggi dibandingkan dulu.
+Yang perlu digaris bawahi adalah keuntungan untuk pihak driver ini kurang tinggi menurut saya, karena jika ingin dibandinkan dengan ojek pangkalan jelas lebih tinggi ojek pangkalan tarifnya.
 
-karena kalau ojek pangkalan hanya diem saja dipangkalan tertentu dan jika ojol kan keliling, bisa ke sekolah atau ke tempat kerja dan llokasi makanan yang kiranya ada peluang tinggi orderan
+Tapi mengingat sekarang sudah zaman digitalisasi, sehingga peluang mendapatkan orderan seharusnya lebih tinggi dibandingkan dulu.
 
-ya semoga pekerjaan apapun itu bisa dilakoni dengan baik dan ikhlas yang penting pekerjaan itu baik
+Masih ingat ketika tahun tahun pertama layanan ojek online ini muncul? 
+
+Secara ajaib orang orang berbondong bondong mendaftar untuk menjadi mitra grab (layanan ojol yang muncul pertama kali di Indonesia setelah itu disusul gojek) padahal mereka sudah mendapatkan pekerjaan yang tetap.
+
+Dahulu saat pertama kali aplikasi ini muncul, ada banyak bonus ketika mendapatkan 8-20 customer dalam satu hari, makanya banyak yang pindah profesi.
+
+Tapi semenjak ada banyak update dari aplikasi ojol ini, ada banyak yang dikurangi yaitu; **bonus dari frekuensi trip**.
