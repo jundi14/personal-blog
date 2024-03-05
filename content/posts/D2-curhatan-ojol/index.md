@@ -1,16 +1,16 @@
 ---
-title: Curhatan Dari Driver Ojol 'Senior' Tapi Masih Junior 
+title: Curhatan Driver Ojol 'Senior' Tapi Junior 
 slug: Curhatan Driver Ojol
 description: 
 categories: Curhatan
 summary: Sekian lama aplikasi akun ojol ini mangkrak selama hampir 3 tahun lamanya dan hanya diaktifkan beberapa saat agar tidak di banned oleh pihak grab karena terlalu lama offline.
-date: 2024-02-29
+date: 2024-03-04
 tags: 
     -
 aliases: 
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 ## Sebenarnya Senior
@@ -21,7 +21,7 @@ Tapi karena pekerjaan utama saya tidak bisa serius, alhasil teguran secara tak l
 
 Demi menjaga nama baik saya (ceilah..) akhirnya saya tidak lagi mencoba peruntungan dari ojol ini dan saya hanya fokus di pekerjaan yang sudah saya lakoni sebelumnya.
 
-Ya pada akhirnya saya off selama 2 tahun kalau tidak salah dan pihak grab menonaktifkan akun saya karena sudah lama tidak terdekteksi aktif ngojol.
+Ya pada akhirnya saya off selama 2 tahun kalau tidak salah dan pihak grab menonaktifkan akun saya karena sudah lama tidak terdeteksi aktif ngojol.
 
 Setelah Sekian lama akun Grab ini mangkrak selama hampir 3 tahun lamanya akhirnya saya mencoba lagi aplikasinya.
 
@@ -35,7 +35,7 @@ Semenjak awal februari 2024 saya sudah seringkali keluar rumah sore sampai malam
 
 Ya memang hanya peruntungan karena yg namanya ojol kerja by order online, hehe
 
-Kadang dari sore sampai malam dapet sampai 5 orderan, kadang hanya 1 atau 2 atau bahkan nihil.
+Kadang dari sore sampai malam dapat sampai 5 orderan, kadang hanya 1 atau 2 atau bahkan nihil.
 
 Saya melihat sistem grab saat ini lebih mudah untuk digunakan entah itu fitur maupun pengalaman di aplikasinya.
 
@@ -51,7 +51,7 @@ Kemudian hal lain yang tidak kalah menarik adalah customer rela membayar sesuatu
 
 Waktu itu ada orderan yang jaraknya cukup jauh yaitu hampir 6 km, rata rata saya mendapat orderan pada jarak kurang dari 4 km.
 
-Pada detail orderan grabgood tersebut tertulis bahwa dia memesan bubur ayam 2 porsi dan jika di total dengan ongkos antar menjadi sebesar Rp 38.000.
+Pada detail orderan grabfood tersebut tertulis bahwa dia memesan bubur ayam 2 porsi dan jika di total dengan ongkos antar menjadi sebesar Rp 38.000.
 
 Saya pikir ini harga yang cukup lumayan untuk 2 porsi bubur ayam, tapi dengan jarak yang cukup jauh ini sebenarnya sangat wajar.
 
@@ -63,7 +63,7 @@ Serta lokasi rumah customer berada di area yang cukup banyak pepohonan, yang say
  
 Ya begitulah layanan antar jemput makanan di grabfood memudahkan orang orang yang mempunyai sedikit waktu, alih alih memasak, dan ingin membeli makanan dengan hanya sentuhan jarinya saja.
 
-Ada pembagian hasil yang disisihkan untuk pihak grab ini yaitu sebesar 20% dari total ongkos kirim yang nanti akan dipotong lewat aplikasi mitra grab, dan jika kamu melihat harga makanan di layanan grab food sebenarnya terbilang cukup mahal dibanding membelinya secara langsung.
+Ada pembagian hasil yang disisihkan untuk pihak grab ini yaitu sebesar 20% dari total ongkos kirim yang nanti akan dipotong lewat aplikasi mitra grab, dan jika kamu melihat harga makanan di layanan grabfood sebenarnya terbilang cukup mahal dibanding membelinya secara langsung.
 
 Tapi tetap saja ada kendala titik antar yang kadangkala tidak presisi, sehingga terkadang masih perlu bertanya ke orang sekitar.
 
@@ -71,9 +71,9 @@ Itulah masalah yang sudah pasti sering dialami oleh kurir paket, menjadi ojol ti
 
 ## Bonus Yang Dikurangi
 
-Saat yang paling membuat sesak adalah, ketika udah niat ngojol dari sore sampai malam teryata ngga ada yang order satupun, tapi namanya usaha kan pasti ada saja naik turunnya.
+Saat yang paling membuat sesak adalah, ketika sudah niat ngojol dari sore sampai malam ternyata nggak ada yang order satupun, tapi namanya usaha kan pasti ada saja naik turunnya.
 
-Yang perlu digaris bawahi adalah keuntungan untuk pihak driver ini kurang tinggi menurut saya, karena jika ingin dibandinkan dengan ojek pangkalan jelas lebih tinggi ojek pangkalan tarifnya.
+Yang perlu digaris bawahi adalah keuntungan untuk pihak driver ini kurang tinggi menurut saya, karena jika ingin dibandingkan dengan ojek pangkalan jelas lebih tinggi ojek pangkalan tarifnya.
 
 Tapi mengingat sekarang sudah zaman digitalisasi, sehingga peluang mendapatkan orderan seharusnya lebih tinggi dibandingkan dulu.
 
