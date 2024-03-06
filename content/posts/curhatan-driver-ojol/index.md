@@ -84,3 +84,7 @@ Secara ajaib orang orang berbondong bondong mendaftar untuk menjadi mitra grab (
 Dahulu saat pertama kali aplikasi ini muncul, ada banyak bonus ketika mendapatkan 8-20 customer dalam satu hari, makanya banyak yang pindah profesi.
 
 Tapi semenjak ada banyak update dari aplikasi ojol ini, ada banyak yang dikurangi yaitu; **bonus dari frekuensi trip**.
+
+Berbeda sekali dengan aplikasi grab ketika pertama kali dirilis yang memanjakan mitra grab dengan bonus jika sudah mendapatkan minimal 8 trip setiap harinya, tetapi pada saat ini lebih ketat dalam mengaplikasikan bonus kepada para mitranya.
+
+Yang pasti, apapun pekerjaan halal yang kita lakukan saat ini adalah impian bagi para orang orang diluar sana yang sedang menganggur atau bahkan tidak bisa bekerja karena suatu alasan.

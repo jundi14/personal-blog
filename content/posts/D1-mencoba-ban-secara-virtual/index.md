@@ -1,6 +1,6 @@
 ---
 title: Mencoba Ban Secara Virtual Menggunakan Aplikasi   
-slug: mencoba ban virtual
+slug: mencoba ban secara virtual
 description: 
 categories: Teknologi
 summary: 
