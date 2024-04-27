@@ -13,7 +13,7 @@ showTableOfContents: true
 draft: true
 ---
 
-Saat ini motor maupun mobil listrik mulai memiliki pesonanya tersendiri, lebih terlihat 'wah' dibandingkan dengan mobil konvensional.
+Saat ini motor maupun mobil listrik mulai memiliki pesonanya tersendiri, lebih terlihat 'wah' dibandingkan dengan mobil konvensional, ya setidaknya untuk sebagian orang.
 
 Tapi karena saat ini, harganya masih terbilang cukup fantastis, dibanding mobil konvensional.
 
