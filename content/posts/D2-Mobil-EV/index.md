@@ -1,9 +1,9 @@
 ---
-title: Mobil Listrik dan Sedikit Printilannya 
+title: Mobil Listrik Lebih Efisienkah Dibanding Mobil Konvensional?
 slug: Mobil Listrik
 description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela 
 categories: Teknologi
-summary: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela ini, bahkan muscle car pun tidak mau ketinggalan beralih menjadi EV pula.
+summary: mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan muscle car pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
 date: 2024-04-25
 tags: 
     -
@@ -119,7 +119,7 @@ Karena memang mobil listrik belum bisa menjadi mobil utama, karena kita tahu SPK
 
 Yang paling banyak tentu ada di DKI Jakarta dan disusul oleh Jawa Barat lalu diikuti oleh Jawa timur-Bali-Nusra. Untuk di provinsi lain masih sedikit. bisa lihat datanya [disini](https://databoks.katadata.co.id/datapublish/2024/01/22/ada-911-spklu-di-indonesia-pada-2023-ini-sebarannya)
 
-## Ada kelemahan EV yang cukup menarik
+## (Bukan) kelemahan EV yang cukup menarik
 
 Ada hal yang membuat saya terheran dan cukup menarik dari mobil listrik.
 
@@ -139,20 +139,14 @@ itu kelemahan bagi yang suka suara ASMR.
 
 Loh iya kan?
 
-Kamu pasti suka mendengar suara suara khas dari knalpot dan raungan mesin kendaraan yang garang bukan?
+Kamu pasti suka mendengar suara suara khas dari knalpot dan raungan mesin kendaraan yang terdengar garang bukan?
 
 Gentle banget kesannya.
 
 Mungkin suara yang terdengar dari mobil itu hanya gesekan roda dengan aspal saja, sisanya bias oleh suara bising dari kendaraan lain.
 
-## (Inilah) Kelebihan EV yang utama
+## Kesimpulan
 
-Di tulisan paling atas sudah diulas tentang keefisienan mobil listrik yang tidak butuh bensin, hanya ketergantungan terhadap listrik (pasti dong).
+Antara EV dan kendaraan konvensional tentu punya kelebihan dan kekurangan, antara kebutuhan listrik yang tinggi untuk EV dan kepraktisan mobil konvensional karena tidak perlu memasang listrik ribuan VA dirumah dan hanya tinggal mengunjungi pom bensin terdekat.
 
-yang kedua itu keluasan kabin penumpang terutama area antara driver dan penumpang depan
-
-Ya karena rangka mobil listrik dengan petrolhead berbeda.
-
-Mobil listrik lebih ringkas karena tidak ada mesin rumit yang membuatnya mempengaruhi keluasan kabin di dalam mobil.
-
-Karena mobil listrik tidak membutuhkan yang namanya tuas persneling, maka gundukan di tengah antara driver dan penumpang depan bisa dihilangkan, lalu untuk rem tangan digantikan dengan electric parking brake.
+Pastinya seseorang yang memiliki EV punya pertimbangan yang kuat, dan biasanya juga punya kendaraan konvensional juga di garasinya yang berbahan bakar bensin.
