@@ -3,7 +3,7 @@ title: Mobil Listrik Lebih Efisienkah Dibanding Mobil Konvensional?
 slug: Mobil Listrik
 description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela 
 categories: Teknologi
-summary: mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan muscle car pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
+summary: Mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan mobil 'muscle car' pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
 date: 2024-04-25
 tags: 
     -
