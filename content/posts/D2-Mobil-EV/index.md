@@ -1,16 +1,16 @@
 ---
 title: Mobil Listrik Lebih Efisienkah Dibanding Mobil Konvensional?
-slug: Mobil Listrik
+slug: mobil listrik lebih efisien
 description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela 
 categories: Teknologi
-summary: Mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan mobil 'muscle car' pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
-date: 2024-04-25
+summary: Mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan 'muscle car' pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
+date: 2024-05-04
 tags: 
     -
 aliases: 
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 Saat ini motor maupun mobil listrik mulai memiliki pesonanya tersendiri, lebih terlihat 'wah' dibandingkan dengan mobil konvensional, ya setidaknya untuk sebagian orang.
@@ -24,6 +24,8 @@ Tapi sekali lagi apakah betul itu faktanya?
 Coba kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela ini, bahkan muscle car pun ikut ikutan trend EV. 
 
 Ya, **Dodge Charge Daytona** mobil yang kekar dan punya tenaga yang buas. 
+
+![Dodge Charger EV](/img/mobil-ev/dodge-charger.jpg "Dodge Charger EV **|** *Sumber: gridoto.com*")
 
 Mobil yang sering digunakan pada serial **Fast & Furious** ini menjadi terlihat 'cupu' karena saat ini ada versi EV nya yang pasti tidak ada lagi suara knalpot yang bisa mengintimidasi rivalnya.
 
@@ -49,6 +51,8 @@ Contoh saja harga Hyundai Ioniq 5 tipe standard range yaitu 680 jutaan dan tipe 
 Keduanya punya harga baterai yang berbeda karena kedua tipe tersebut perbedaan yang paling besar yaitu kapasitas baterainya.
 
 Fajar Ahya (Assembly Processing Engineer Hyundai) mengungkapkan bahwa harga baterai Hyundai Ioniq 5 tipe standard berkisar Rp 300 jutaan, sedangkan long range-nya dibanderol Rp 400 jutaan.
+
+![Hyundai Ioniq 5](/img/mobil-ev/ioniq-5.jpg "Hyundai Ioniq 5 **|** *Sumber: carmudi.co.id*")
 
 Luar biasa! 
 Awal mobil listrik masuk ke indonesia pada tahun 2022, berarti belum genap 2 tahun mobil listrik masuk ke indonesia
@@ -115,7 +119,9 @@ Karena untuk berjaga-jaga jika baterai perlu diganti jika sudah satu windu karen
 
 Kalau saya melihat orang yang membeli mobil listrik ini pasti memiliki mobil lain bukan hanya mobil listrik saja.
 
-Karena memang mobil listrik belum bisa menjadi mobil utama, karena kita tahu SPKLU atau sebut saja ‘pom bensin’ mobil listrik, belum menyebar secara merata di indonesia. Hanya di titik tertentu saja.
+![SPKLU](/img/mobil-ev/spklu.jpg "*Sumber: koran.tempo.co*")
+
+Karena memang mobil listrik belum bisa menjadi mobil utama, karena kita tahu Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) belum menyebar secara merata di indonesia. Hanya di titik tertentu saja.
 
 Yang paling banyak tentu ada di DKI Jakarta dan disusul oleh Jawa Barat lalu diikuti oleh Jawa timur-Bali-Nusra. Untuk di provinsi lain masih sedikit. bisa lihat datanya [disini](https://databoks.katadata.co.id/datapublish/2024/01/22/ada-911-spklu-di-indonesia-pada-2023-ini-sebarannya)
 
@@ -135,7 +141,7 @@ ada satu kelemahan lagi menurut saya, yaitu mobil hampir tidak ada suaranya kare
 
 ### Tidak ada raungan knalpot.
 
-itu kelemahan bagi yang suka suara ASMR. 
+itu kelemahan bagi yang suka suara [ASMR](https://www.guesehat.com/apa-itu-asmr-kenapa-banyak-orang-menyukainya). 
 
 Loh iya kan?
 
