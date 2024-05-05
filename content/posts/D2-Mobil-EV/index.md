@@ -6,7 +6,7 @@ categories: Teknologi
 summary: Mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan 'muscle car' pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
 date: 2024-05-04
 tags: 
-    -
+    - ev
 aliases: 
 showComments: true
 showTableOfContents: true
