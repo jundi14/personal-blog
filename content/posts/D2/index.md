@@ -39,6 +39,12 @@ Harga yang cukup wajar, tidak terlalu mahal bahkan bisa dibilang murah.
 
 Saya kasih tau beberapa gamenya, kamu bisa lihat sendiri di screenshot dibawah ini
 
+
+{{< gallery >}}
+  <img src="/assets/img/2-player-games/list-game-1.jpg" class="grid-w33" />
+  <img src="/assets/img/2-player-games/list-game-2.jpg" class="grid-w33" />
+{{< /gallery >}}
+
 ![List 2 Player Games](/img/2-player-games/list-game-1.jpg)
 ![List 2 Player Games](/img/2-player-games/list-game-2.jpg)
 
