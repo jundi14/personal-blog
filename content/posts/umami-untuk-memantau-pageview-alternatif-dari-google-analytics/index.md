@@ -44,7 +44,7 @@ Umami fokus pada kesederhanaan, tampilan yang lebih *user-friendly* dan ringan s
 
 ![ Contoh Tampilan Analitik Umami](/img/analitik-umami.png "Tampilan Analitik Umami")
 
-{{< button href="https://umami-analytics-new.vercel.app/share/1J4EgH3GOfmnfTud/jundimubarok" target="_blank" >}}Interface Umami{{< /button >}}
+{{< button href="https://umami-beta-tan.vercel.app/share/uTzM6Lm2tsztJmOK/jundimubarok.com" target="_blank" >}}Interface Umami{{< /button >}}
 
 Pada screenshots di atas tampilan utama dari umami saat menampilkan analitiknya,*user-friendly* dan sederhana tapi tetap menampilkan tampilan yang informatif.
 
