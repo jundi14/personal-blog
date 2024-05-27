@@ -31,6 +31,21 @@ Padahal di empunya Dana ngga pernah kenal siapa nomor atau rek tujuan, apalagi s
 
 Bisa jadi pernah korban pishing, entah gimana caranya bisa masuk perangkap. Tapi yang pasti hati-hati aja soalnya namanya dompet digital kan ngga ada bank fisiknya yang bisa komplain, lagian kalau udah kena pishing salah kita juga kok 😂
 
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Makanya saya juga tidak pernah menyimpan uang dalam jumlah banyak di DANA, paling cuman numpang 'lewat' saja. Numpang transfer ke bank lain biar ngga kena biaya admin, mwehehe.
 
 Walaupun kadang suka was was juga, namanya celah keamanan pasti ada aja. Semoga ngga akan terjadi lagi kepada siapapun deh.

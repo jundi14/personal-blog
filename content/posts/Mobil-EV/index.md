@@ -61,6 +61,21 @@ Pabrikan mobil listrik biasanya memberikan garansi terhadap baterai selama 8 tah
 
 Bahkan ada pabrikan seperti MG memberikan garansi seumur hidup, tapi syarat itu diberikan kepada tiga ribu pembeli pertama pada seri MG4 EV dan MG ZS EV, tentu SK berlaku.
 
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Berarti saat ini kita belum bisa menghitung apakah ‘berinvestasi' uang yang cukup besar untuk baterai ini cukup worth it
 
 Bisakah 8 tahun atau bahkan lebih?
@@ -108,6 +123,21 @@ Jadi pembayarannya pun bisa dipisah.
 Jadi jangan lupa ada biaya lagi yang harus dikeluarkan jika memang listrik dirumah dibawah yang ditentukan.
 
 Ya membangun lagi home charging itu perlu biaya dong, sama saja seperti rumah kamu dipasang token listrik baru, bedanya ini khusus buat EV.
+
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
 
 ***
 
