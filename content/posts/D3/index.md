@@ -4,47 +4,57 @@ slug: dompet-digital-pilihanku
 description: Dompet digital menjadi sebuah keharusan di era digital ini, sebuah opsi transaksi yang hampir wajib di setiap lini kehidupan kita.
 categories: Teknologi
 summary: Dari sekian banyak e-wallet, **DANA** menjadi e-wallet pilihan saya untuk bertransaksi online, menghemat beberapa ribu rupiah karena hampir tidak ada biaya admin saat top up dan transfer.
-date: 2024-05-22
+date: 2024-05-26
 tags: 
     - opini
 aliases: 
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
-Mayoritas remaja saat ini punya yang namanya dompet digital; Dana, Ovo, Gopay, dsb.
+Buat kita sebagai anak muda nggak asing dengan yang namanya dompet digital, yang populer itu Dana, Ovo, Shopeepay dan Gopay.  
 
-Diantara banyaknya dompet digital, saya lebih prefer menggunakan DANA.
+Diantara banyaknya dompet digital, saya lebih enak menggunakan DANA.
 
-Karena menurut saya lebih hemat dalam biaya administrasi saat top up.
+Karena menurut saya lebih hemat dalam biaya administrasi saat top up dan free transfer ke bank manapun.
 
-Ya walaupun ngga ada promo yang "berguna" 
+Tetap ada batasannya, top up 3x (di alfamart) dan free admin transfer 10x dan satu bulan.
 
-Karena seringkali promo itu hanya bisa digunakan hanya di FnB khusus dan di kota kota besar saja, kurang begitu berguna di daerah terpencil.
+Kalau menggunakan mobile banking -saya menggunakan BSI, entah bank lain berapa- biaya adminnya hanya 500 rupiah setiap kali top up.
 
-Saat transfer kita tidak perlu mengeluarkan biaya admin, walaupun terbatas hanya 10x dalam sebulan, tapi itu sudah lebih dari cukup untuk saya, kalau kamu sering transfer lebih dari 10x dalam sebulan, DANA bukan pilihan yang tepat, kecuali memang kamu punya cukup banyak uang.
+Ya walaupun ada promo yang ngga begitu kurang terpakai, promo yang ada hanya bisa digunakan hanya di lokasi tertentu dan biasanya di kota besar saja, kurang begitu digunakan jika di tempat terpencil. Mending promonya ke arah diskon pulsa atau token listrik, pasti lebih sering terpakai 😁
 
-dan saat top up di alfamart pun ada gratis biaya admin sebanyak 3x dalam sebulan.
+Kenalan istri saya pernah kehilangan uang di Dana, 1 jt nominalnya, waktu di cek ternyata ada riwayat transferan ke nomor dana lain atau rek orang lain yang tidak dikenal.
 
-kalau menggunakan mobile banking-saya menggunakan BSI- biaya adminnya hanya 500 rupiah setiap kali top up.
+Padahal di empunya Dana ngga pernah kenal siapa nomor atau rek tujuan, apalagi sampai transfer.
 
-Walaupun dalam beberapa kasus yang pernah saya temukan di medsos, bahwa uang di dana hilang tanpa sebab, waktu di cek ternyata ada riwayat transferan ke nomor dana lain atau rek orang lain yang tidak dikenal.
+Bisa jadi pernah korban pishing, entah gimana caranya bisa masuk perangkap. Tapi yang pasti hati-hati aja soalnya namanya dompet digital kan ngga ada bank fisiknya yang bisa komplain, lagian kalau udah kena pishing salah kita juga kok 😂
 
-tapi selama saya menggunakandana tidak pernah kehilangan uang.
+Makanya saya juga tidak pernah menyimpan uang dalam jumlah banyak di DANA, paling cuman numpang 'lewat' saja. Numpang transfer ke bank lain biar ngga kena biaya admin, mwehehe.
 
-bisa jadi pernah korban pishing sehingga datanya mudah untuk diambil oleh orang tak bertanggung jawab.
+Walaupun kadang suka was was juga, namanya celah keamanan pasti ada aja. Semoga ngga akan terjadi lagi kepada siapapun deh.
 
-saya juga tidak pernah menyimpan uang dalam jumlah banyak di DANA, paling cuman numpang 'lewat' saja jika memang butuh transferan ke untuk lewat dana.
+Balik lagi deh ke judul, saya sering menggunakan dana ini buat beli pulsa, kuota internet dan beli token listrik kadang juga buat transfer saat membeli barang di tokopedia.
 
-Walaupun kadang suka khawatir juga,
+![Fitur E-Wallet Dana](/img/ewallet-andalan/fitur-pembayaran.jpg "Layanan di Aplikasi Dana")
 
-dibanding dengan aplikasi ovo yang setiap kali top up pasti kena biaya admin yang 'lumayan', yaitu 1500 rupiah.
+Kalau kita lihat gambar diatas ada banyak sekali layanan yang tersedia, jadi 1 aplikasi bisa multifungsi.
 
-jadi aplikasi ini cocok untuk kamu yang suka dengan ke praktisan dan sesekali butuh buat transfer ke rekening atau beli pulsa.
+Sebenarnya alasan lainnya karena teman teman saya juga mayoritas menggunakan Dana juga, jadi kalau kalau lagi butuh uang non-tunai, yaa tinggal pinjam saja dan diganti secara tunai.
 
-masih ada fungsi lain sebenarnya, cuma yang sering saya gunakan hanya untuk beli token listrik, beli pulsa, dan transferan.
+Tapi saya yakin sih, diantara kamu juga banyak yang gunain Dana, iya kan?
 
-buat kamu yang belum pernah coba aplikasi DANA silahkan bisa di download lewat link dibawah ini.
+Simpel sih analisanya, liat aja di play store, berapa kali diunduh aplikasinya.
 
-lumayan menghemat biaya admin setiap isi pulsa dan beli token listrik. hehe.
+Dana 100 juta unduhan, sedangkan Gopay 10 juta unduhan.
+
+Entah kalau di appstore iPhone berapa kali.
+
+Walaupun yaa sekali lagi, jarang banget ada promo. Seriusan pelit banget ngasih promo, haha. Ya walau kadang kala suka ada promo pulsa.
+
+Buat kamu yang belum punya aplikasi Dana, bisa kamu klik link download di bawah ini.
+
+{{< button href="https://play.google.com/store/apps/details?id=id.dana&hl=id" target="_blank" >}}Download Dana{{< /button >}}
+
+Tenang aja ini bukan link pishing kok😁 kalau ragu kamu bisa cari sendiri di playstore.

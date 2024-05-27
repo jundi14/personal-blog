@@ -62,7 +62,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true
   showWordCount = true
   showSummary = true
-  sharingLinks = ["twitter", "email",  "telegram", "facebook", "whatsapp"]
+  sharingLinks = ["twitter", "telegram", "facebook", "whatsapp"]
 
 [list] # pada postingan pada tag beda lagi
   showHero = true
