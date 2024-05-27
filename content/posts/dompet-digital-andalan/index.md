@@ -55,6 +55,6 @@ Walaupun yaa sekali lagi, jarang banget ada promo. Seriusan pelit banget ngasih 
 
 Buat kamu yang belum punya aplikasi Dana, bisa kamu klik link download di bawah ini.
 
-{{< button href="https://play.google.com/store/apps/details?id=id.dana&hl=id" target="_blank" >}}Download Dana{{< /button >}}
+{{< button href="https://link.dana.id/ajak?r=dAmv7x" target="_blank" >}}Download Dana{{< /button >}}
 
 Tenang aja ini bukan link pishing kok😁 kalau ragu kamu bisa cari sendiri di playstore.
