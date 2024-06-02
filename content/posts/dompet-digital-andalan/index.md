@@ -23,7 +23,7 @@ Tetap ada batasannya, top up 3x (di alfamart) dan free admin transfer 10x dan sa
 
 Kalau menggunakan mobile banking -saya menggunakan BSI, entah bank lain berapa- biaya adminnya hanya 500 rupiah setiap kali top up.
 
-Ya walaupun ada promo yang ngga begitu kurang terpakai, promo yang ada hanya bisa digunakan hanya di lokasi tertentu dan biasanya di kota besar saja, kurang begitu digunakan jika di tempat terpencil. Mending promonya ke arah diskon pulsa atau token listrik, pasti lebih sering terpakai 😁
+Ya walaupun ada promo yang ngga begitu kurang terpakai, promo yang ada hanya bisa digunakan di lokasi tertentu dan biasanya di kota besar saja, kurang begitu digunakan jika di tempat terpencil. Mending promonya ke arah diskon pulsa atau token listrik, pasti lebih sering terpakai 😁
 
 Kenalan istri saya pernah kehilangan uang di Dana, 1 jt nominalnya, waktu di cek ternyata ada riwayat transferan ke nomor dana lain atau rek orang lain yang tidak dikenal.
 
