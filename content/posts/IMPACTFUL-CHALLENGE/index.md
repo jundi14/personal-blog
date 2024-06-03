@@ -21,7 +21,7 @@ Mengutip dari [mayoclinic](https://www.mayoclinic.org/healthy-lifestyle/stress-m
 
 Pola pikir juga berkaitan erat dengan prasangka kita, saat prasangka kita sering positif maka pola pikir kita juga akan positif. Pada akhirnya akan menjadi karakter dan kepribadian kita.
 
-Ada 3 cara yang bisa kita lakukan untuk menumbuhkan pola pikir yang positif:
+Ada 3 tips yang bisa kita lakukan untuk menumbuhkan pola pikir yang positif:
 
 ## Melatih Rasa Syukur 
 
@@ -79,7 +79,7 @@ Coba tulislah kata-kata afirmasi di dalam sebuah kertas catatan, yang bisa dibac
 
 Nah, sudah mulai terbayang kan bagaimana cara afirmasi?
 ***
-Jadi itulah 3 cara untuk merubah pola pikir kita supaya lebih baik.\
+Jadi itulah 3 tips untuk merubah pola pikir kita supaya semakin baik.\
 Semoga tulisan ini bermanfaat untuk kita semuanya 😁
 
 
