@@ -12,29 +12,23 @@ showTableOfContents: true
 draft: false
 ---
 
-Dalam melakukan kegiatan, pola pikir akan sangat mempengaruhi dan menjadi sangat penting di setiap lini kehidupan kita.
+Dalam melakukan kegiatan, pola pikir akan sangat mempengaruhi dan menjadi sangat penting di setiap lini kehidupan kita. Penentu karakter bahkan apa yang akan kita lakukan berikutnya.
 
-Penentu karakter bahkan apa yang akan kita lakukan berikutnya.
-
-Mindset atau pola pikir yang positif harus dibentuk dari diri kita sendiri, dan tidak mungkin orang lain yang melakukannya. 
-
-Pola pikir sangat mempengaruhi kesehatan mental. Tidak perlu bukti ilmiah, bahkan hampir setiap orang pasti pernah merasakan efek dari pola pikir.
+Pola pikir yang positif harus dibentuk dari diri kita sendiri, dan tidak mungkin orang lain yang melakukannya. Pola pikir pula sangat mempengaruhi kesehatan mental. Tidak perlu bukti ilmiah, bahkan hampir setiap orang pasti pernah merasakan efek dari pola pikir.
 
 Mengutip dari [mayoclinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950) 
 >Berpikir positif bukan berarti kita mengabaikan situasi hidup yang kurang menyenangkan. Berpikir positif berarti bahwa kita mendekati ketidaknyamanan dengan cara yang lebih positif dan produktif, berpikir bahwa yang terbaik akan terjadi, bukan yang terburuk.
 
-Pola pikir juga berkaitan erat dengan prasangka kita, saat prasangka kita sering positif maka pola pikir kita juga akan positif.
+Pola pikir juga berkaitan erat dengan prasangka kita, saat prasangka kita sering positif maka pola pikir kita juga akan positif. Pada akhirnya akan menjadi karakter dan kepribadian kita.
 
-Pada akhirnya akan menjadi karakter dan kepribadian kita.
-
-Ada 3 cara yang bisa kita lakukan untuk menumbuhkan pola pikir:
+Ada 3 cara yang bisa kita lakukan untuk menumbuhkan pola pikir yang positif:
 
 ## Melatih Rasa Syukur 
 
 Di dalam agama islam ada hadits yang berbunyi:\
 *"Ada dua kenikmatan yang banyak manusia tertipu, yaitu nikmat sehat dan waktu luang”. (HR. Bukhari no. 6412, dari Ibnu ‘Abbas)*
 
-Ya, seringkali kita lupa bahwa nikmat sehat dan waktu luang merupakan sebuah anugrah besar.
+Ya, seringkali kita lupa bahwa nikmat sehat dan waktu luang merupakan sebuah anugerah besar.
 
 Karena mayoritas kita mudah terlena dengan nikmat sehat dan waktu luang, sehingga lupa bahwa sehat dan waktu luang itu bagian dari peluang besar untuk kita bersemangat melakukan perbuatan baik.
 
