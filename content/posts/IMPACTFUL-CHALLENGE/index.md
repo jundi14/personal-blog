@@ -73,11 +73,14 @@ Contoh self talk negatif yang perlu kita ubah jadi afirmasi
 | Ini terlalu sulit |  Saya akan mencoba untuk menyelesaikannya dengan cara yang berbeda
 | Tidak mungkin itu akan berhasil | Saya akan mencoba membuatnya supaya berhasil
  
-Nah, sudah mulai terbayang kan bagaimana cara meng-afirmasi?
+Memang mudah bagi yang terbiasa afirmasi tapi sulit bagi kamu yang masih suka self talk negatif, jadi perlu latihan.
 
-Mungkin terlihat mudah, tapi kenyataannya sulit untuk dipraktekkan karena 
+Coba tulislah kata-kata afirmasi di dalam sebuah kertas catatan, yang bisa dibaca setiap kali kamu akan melakukan aktifitas, seperti di layar komputer atau pintu kulkas. 
 
-
+Nah, sudah mulai terbayang kan bagaimana cara afirmasi?
+***
+Jadi itulah 3 cara untuk merubah pola pikir kita supaya lebih baik.\
+Semoga tulisan ini bermanfaat untuk kita semuanya 😁
 
 
 
