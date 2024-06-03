@@ -9,7 +9,7 @@ tags:
     - 
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 Dalam melakukan kegiatan, pola pikir akan sangat mempengaruhi dan menjadi sangat penting di setiap lini kehidupan kita.
