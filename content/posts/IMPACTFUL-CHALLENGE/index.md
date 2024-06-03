@@ -56,11 +56,11 @@ Bagaimana, sudah bisa mengendalikan stress yang sedang kamu alami?
 
 ## Self Talk Positif
 
-Pada setiap hari kita melakukan yang namanya *self-talk*, cara kita berbicara kepada diri sendiri, atau suara hati. Kita mungkin tidak sadar bahwa sedang melakukannya,
+Setiap hari kita melakukan yang namanya *self-talk*, cara kita berbicara kepada diri sendiri, atau suara hati. Kita mungkin tidak sadar bahwa sedang melakukannya.
 
-Self talk ini bisa berimbas kepada pikiran sadar kita, bahkan bisa jadi menjadi kenyataan jika itu belum terjadi karena melakukan self talk secara kontinu.
+Self talk ini bisa berimbas kepada pikiran sadar kita, bahkan bisa menjadi kenyataan karena self talk yang kita lakukan.
 
-Nah, karena hal ini self-talk ini begitu berpengaruh kepada pikiran sadar, maka kita perlu mengurangi self talk yang bersifat negatif dan memulai untuk mencoba self-talk yang positif atau memberikan afirmasi.
+Nah, karena self-talk ini begitu berpengaruh kepada pikiran sadar, maka kita perlu mengurangi self talk yang bersifat negatif dan memulai untuk mencoba self-talk yang positif atau afirmasi.
 
 Dilansir dari [kabar24 bisnis](https://kabar24.bisnis.com/read/20230918/79/1696111/apa-itu-afirmasi-pengertian-manfaat-dan-contoh-kalimat-afirmasi)
 >Afirmasi adalah kata-kata positif yang digunakan untuk memberikan penegasan kepada diri sendiri. Kata-kata positif ini bisa dicerna oleh otak secara lansung. Kemudian mengintruksikan otak agar sudut pandang dan pikiran kita berubah menjadi lebih baik dan selalu positif.
