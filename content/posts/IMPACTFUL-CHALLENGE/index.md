@@ -1,5 +1,5 @@
 ---
-title: Pola Pikir Akan Negatif Jika Kamu Belum Melakukan Hal Ini
+title: Pola Pikir Akan Negatif Jika Kamu Belum Melakukan 3 Tips Ini
 slug: cara-memperbaiki-pola-pikir
 description: 
 categories: Coretan
