@@ -12,9 +12,11 @@ showTableOfContents: true
 draft: false
 ---
 
-Dalam melakukan kegiatan, pola pikir akan sangat mempengaruhi dan menjadi sangat penting di setiap lini kehidupan kita. Penentu karakter bahkan apa yang akan kita lakukan berikutnya.
+Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita. Penentu karakter bahkan apa yang akan kita lakukan berikutnya.
 
-Pola pikir yang positif harus dibentuk dari diri kita sendiri, dan tidak mungkin orang lain yang melakukannya. Pola pikir pula sangat mempengaruhi kesehatan mental. Tidak perlu bukti ilmiah, bahkan hampir setiap orang pasti pernah merasakan efek dari pola pikir.
+Pola pikir yang positif harus dibentuk dari diri kita sendiri, dan tidak mungkin orang lain yang melakukannya. Tidak perlu bukti ilmiah, bahkan hampir setiap orang pasti pernah merasakan efek dari pola pikir.
+
+Salah satu contohnya efeknya yaitu: susah untuk melangkah maju, waktu terbuang sia-sia, bahkan tubuh bisa menjadi lemas lantaran tenaga terserap habis oleh pola pikir yang negatif.
 
 Mengutip dari [mayoclinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950) 
 >Berpikir positif bukan berarti kita mengabaikan situasi hidup yang kurang menyenangkan. Berpikir positif berarti bahwa kita mendekati ketidaknyamanan dengan cara yang lebih positif dan produktif, berpikir bahwa yang terbaik akan terjadi, bukan yang terburuk.
