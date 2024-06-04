@@ -3,7 +3,7 @@ title: Pola Pikir Akan Negatif Jika Kamu Belum Melakukan Hal Ini
 slug: cara-memperbaiki-pola-pikir
 description: 
 categories: Coretan
-summary: 
+summary: Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita, menentukkan pula apa yang akan kita lakukan berikutnya.
 date: 2024-06-02
 tags: 
     - 
@@ -12,7 +12,7 @@ showTableOfContents: true
 draft: false
 ---
 
-Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita. Penentu karakter bahkan apa yang akan kita lakukan berikutnya.
+Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita, menentukkan pula apa yang akan kita lakukan berikutnya.
 
 Pola pikir yang positif harus dibentuk dari diri kita sendiri, dan tidak mungkin orang lain yang melakukannya. Tidak perlu bukti ilmiah, bahkan hampir setiap orang pasti pernah merasakan efek dari pola pikir.
 
