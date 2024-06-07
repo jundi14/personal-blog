@@ -14,31 +14,33 @@ draft: false
 ---
 
 Kamu pasti pernah suntuk atau bosan di tengah tengah kegiatan keseharian.\
-Dan punya kegiatan untuk sekedar penghilang kebosanan itu. Ada yang mendengarkan musik, ngemil, atau sekedar ngobrol santai.
+Dan punya kegiatan untuk sekedar penghilang kebosanan itu.
 
-Kalau saya sih sukanya main game di smartphone, tapi karena cuma penghilang penat saja, jadi game sederhana pun cukup.
+Mendengarkan musik, ngemil, atau sekedar ngobrol santai.
+
+Kalau saya sendiri sukanya main game di smartphone, tapi karena cuma penghilang penat saja, jadi game sederhana pun cukup.
 
 Pada kali ini saya ingin mengulas game mobile yang sederhana.
-
-Ya ini game menarik untuk dilirik buat kamu yang suka mengisi kekosongan waktu atau sekedar istirahat sejenak dari kerjaan ataupun kuliah.
 
 Bulan lalu saya iseng mencari game sederhana tapi menarik untuk dimainkan, tidak sengaja game 2 player games ini muncul di salah satu list pencarian playstore.
 
 Saya langsung install game ini dan langsung saya mainkan, tampilan menarik dan mudah untuk dipahami.
 
-Dalam satu aplikasi ini memuat banyak sekali game, sesuai dengan namanya game ini bisa dimainkan 2 player entah itu dengan bot atau dengan temanmu.
+Dalam satu aplikasi ini memuat banyak sekali game, sesuai dengan namanya game ini bisa dimainkan 2 player entah itu dengan bot atau dengan teman.
 
-Walaupun begitu, tetap saja game ini juga menyediakan game yang hanya satu arah, kamu saja yang memainkan.
+Walaupun begitu, tetap saja game ini juga menyediakan game 1 player.
 
-Hari pertama saya mainkan saya cukup kaget karena nggak ada tuh iklan yang mengganggu padahal game ini cukup menarik dan saya yakin masih banyak orang yang menginginkan game sederhana seperti ini.
+Hari pertama saya mainkan saya cukup kaget karena nggak ada iklan yang mengganggu, padahal game ini cukup menarik dan saya yakin masih banyak orang yang menginginkan game sederhana seperti ini.
 
-Akhirnya saya memainkan bersama istri saya, pastinya jika putri kecil saya sudah tertidur pulas.
+Terkadang saya memainkan game ini bersama istri, pastinya jika putri kecil saya sudah tertidur pulas.
 
-Barulah di hari kedua dan sampai saat ini iklan pasti ada di hampir setiap selesai permainan, oh ternyata game ini memunculkan iklan setelah 24 jam kita menginstall game.
+Barulah di hari kedua dan sampai saat ini iklan pasti ada di hampir setiap selesai permainan.
+
+Ternyata game ini memunculkan iklan setelah 24 jam kita menginstall game.
 
 Cukup dengan membayar sekitar 28 ribu rupiah kamu bisa membuka game baru yang terkunci dan menghilangkan semua iklan. 
 
-Harga yang cukup wajar, tidak terlalu mahal bahkan bisa dibilang murah.
+Harga yang cukup wajar, bahkan relatif murah.
 
 Ditambah lagi kamu bisa mengatur resolusi dan FPS.
 
@@ -50,7 +52,9 @@ Dibawah ini hasil tangkapan layar beberapa game yang tersedia di **2 Player Game
 
 Ini baru sebagian kecil, masih ada lagi game lainnya yang tidak bisa saya tampilkan disini.
 
-Ada juga game single player yang pilihannya tidak sebanyak game 2 playernya, tentunya karena menyesuaikan dari nama game itu sendiri.
+Ada juga game single player yang pilihannya tidak sebanyak game 2 playernya.
+
+2 player games ini cukup menarik untuk kamu lirik untuk mengisi kekosongan waktu atau sekedar istirahat sejenak dari kerjaan ataupun kuliah.
 
 Buat kamu yang ingin mencoba silahkan bisa klik link dibawah ini
 
