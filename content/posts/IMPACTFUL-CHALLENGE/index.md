@@ -36,7 +36,7 @@ Karena mayoritas kita mudah terlena dengan nikmat sehat dan waktu luang, sehingg
 
 Masih banyak diantara kita yang belum bisa bersyukur dan memang perlu latihan yang kontinu untuk melatih rasa syukur. 
 
-Syukur itu bukan hanya mengucapkan 'Alhamdulillah' saat kita mendapat nikmat, tapi melakukan hal yang positif dengan potensi yang kita mlliki saat ini.
+Syukur itu bukan hanya mengucapkan 'Alhamdulillah' saat kita mendapat nikmat, tapi melakukan hal yang positif dengan potensi yang kita miliki saat ini.
 
 Salah satu manfaat yang akan dirasakan oleh seseorang ketika bersyukur adalah hati dan pikiran menjadi lebih lega, sehingga beban hidup seperti berkurang.
 
@@ -65,7 +65,7 @@ Self talk ini bisa berimbas kepada pikiran sadar kita, bahkan bisa menjadi kenya
 Nah, karena self-talk ini begitu berpengaruh kepada pikiran sadar, maka kita perlu mengurangi self talk yang bersifat negatif dan memulai untuk mencoba self-talk yang positif atau afirmasi.
 
 Dilansir dari [kabar24 bisnis](https://kabar24.bisnis.com/read/20230918/79/1696111/apa-itu-afirmasi-pengertian-manfaat-dan-contoh-kalimat-afirmasi)
->Afirmasi adalah kata-kata positif yang digunakan untuk memberikan penegasan kepada diri sendiri. Kata-kata positif ini bisa dicerna oleh otak secara lansung. Kemudian mengintruksikan otak agar sudut pandang dan pikiran kita berubah menjadi lebih baik dan selalu positif.
+>Afirmasi adalah kata-kata positif yang digunakan untuk memberikan penegasan kepada diri sendiri. Kata-kata positif ini bisa dicerna oleh otak secara langsung. Kemudian menginstruksikan otak agar sudut pandang dan pikiran kita berubah menjadi lebih baik dan selalu positif.
 
 Contoh self talk negatif yang perlu kita ubah jadi afirmasi
 
@@ -82,7 +82,7 @@ Coba tulislah kata-kata afirmasi di dalam sebuah kertas catatan, yang bisa dibac
 Nah, sudah mulai terbayang kan bagaimana cara afirmasi?
 ***
 Jadi itulah 3 tips untuk merubah pola pikir kita supaya semakin baik.\
-Semoga tulisan ini bermanfaat untuk kita semuanya 😁
+Semoga tulisan ini bermanfaat untuk kita semuanya😁
 
 
 

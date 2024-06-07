@@ -4,18 +4,23 @@ slug: games-android-sederhana
 description: Game sederhana tapi tetap menarik dan bikin ketagihan karena berisi kumpulan game game menarik yang bisa kamu mainkan diwaktu luang kamu
 categories: Teknologi
 summary: Game sederhana tapi bikin ketagihan karena berisi game game menarik yang bisa kamu mainkan diwaktu luang, uniknya bisa dimainkan oleh 2 orang diwaktu bersamaan. Cobain Yuk!
-date: 2024-05-26
+date: 2024-06-05
 tags: 
     - games
 aliases: 
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
-Jarang jarang saya review sebuah aplikasi game sederhana untuk smartphone.
+Kamu pasti pernah suntuk atau bosan ditengah tengah kegiatan keseharian.\
+Dan punya kegiatan untuk sekedar penghilang kebosanan itu. Ada yang mendengarkan musik, ngemil, atau sekedar ngobrol santai.
 
-Ya ini game menarik untuk dilirik buat kamu yang suka mengisi kekosongan waktu atau sekedar istirahat sejenak dari hiruk pikuk dunia.
+Kalau saya sih sukanya main game di smartphone, tapi karena cuma penghilang penat saja, jadi game sederhana pun cukup.
+
+Pada kali ini saya ingin mengulas game mobile yang sederhana.
+
+Ya ini game menarik untuk dilirik buat kamu yang suka mengisi kekosongan waktu atau sekedar istirahat sejenak dari kerjaan ataupun kuliah.
 
 Bulan lalu saya iseng mencari game sederhana tapi menarik untuk dimainkan, tidak sengaja game 2 player games ini muncul di salah satu list pencarian playstore.
 
