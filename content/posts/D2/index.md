@@ -13,7 +13,7 @@ showTableOfContents: true
 draft: false
 ---
 
-Kamu pasti pernah suntuk atau bosan ditengah tengah kegiatan keseharian.\
+Kamu pasti pernah suntuk atau bosan di tengah tengah kegiatan keseharian.\
 Dan punya kegiatan untuk sekedar penghilang kebosanan itu. Ada yang mendengarkan musik, ngemil, atau sekedar ngobrol santai.
 
 Kalau saya sih sukanya main game di smartphone, tapi karena cuma penghilang penat saja, jadi game sederhana pun cukup.
@@ -30,7 +30,7 @@ Dalam satu aplikasi ini memuat banyak sekali game, sesuai dengan namanya game in
 
 Walaupun begitu, tetap saja game ini juga menyediakan game yang hanya satu arah, kamu saja yang memainkan.
 
-Hari pertama saya mainkan saya cukup kaget karena ngga ada tuh iklan yang mengganggu padahal game ini cukup menarik dan saya yakin masih banyak orang yang menginginkan game sederhana seperti ini.
+Hari pertama saya mainkan saya cukup kaget karena nggak ada tuh iklan yang mengganggu padahal game ini cukup menarik dan saya yakin masih banyak orang yang menginginkan game sederhana seperti ini.
 
 Akhirnya saya memainkan bersama istri saya, pastinya jika putri kecil saya sudah tertidur pulas.
 

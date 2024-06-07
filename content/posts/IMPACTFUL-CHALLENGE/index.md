@@ -83,6 +83,3 @@ Nah, sudah mulai terbayang kan bagaimana cara afirmasi?
 ***
 Jadi itulah 3 tips untuk merubah pola pikir kita supaya semakin baik.\
 Semoga tulisan ini bermanfaat untuk kita semuanya😁
-
-
-
