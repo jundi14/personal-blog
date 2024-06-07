@@ -30,6 +30,21 @@ Dalam satu aplikasi ini memuat banyak sekali game, sesuai dengan namanya game in
 
 Walaupun begitu, tetap saja game ini juga menyediakan game 1 player.
 
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Hari pertama saya mainkan saya cukup kaget karena nggak ada iklan yang mengganggu, padahal game ini cukup menarik dan saya yakin masih banyak orang yang menginginkan game sederhana seperti ini.
 
 Terkadang saya memainkan game ini bersama istri, pastinya jika putri kecil saya sudah tertidur pulas.

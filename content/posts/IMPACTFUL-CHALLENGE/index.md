@@ -21,6 +21,21 @@ Salah satu contohnya efeknya yaitu: susah untuk melangkah maju, waktu terbuang s
 Mengutip dari [mayoclinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950) 
 >Berpikir positif bukan berarti kita mengabaikan situasi hidup yang kurang menyenangkan. Berpikir positif berarti bahwa kita mendekati ketidaknyamanan dengan cara yang lebih positif dan produktif, berpikir bahwa yang terbaik akan terjadi, bukan yang terburuk.
 
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Pola pikir juga berkaitan erat dengan prasangka kita, saat prasangka kita sering positif maka pola pikir kita juga akan positif. Pada akhirnya akan menjadi karakter dan kepribadian kita.
 
 Ada 3 tips yang bisa kita lakukan untuk menumbuhkan pola pikir yang positif:
@@ -63,6 +78,21 @@ Setiap hari kita melakukan yang namanya *self-talk*, cara kita berbicara kepada 
 Self talk ini bisa berimbas kepada pikiran sadar kita, bahkan bisa menjadi kenyataan karena self talk yang kita lakukan.
 
 Nah, karena self-talk ini begitu berpengaruh kepada pikiran sadar, maka kita perlu mengurangi self talk yang bersifat negatif dan memulai untuk mencoba self-talk yang positif atau afirmasi.
+
+<div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="1294831496"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
 
 Dilansir dari [kabar24 bisnis](https://kabar24.bisnis.com/read/20230918/79/1696111/apa-itu-afirmasi-pengertian-manfaat-dan-contoh-kalimat-afirmasi)
 >Afirmasi adalah kata-kata positif yang digunakan untuk memberikan penegasan kepada diri sendiri. Kata-kata positif ini bisa dicerna oleh otak secara langsung. Kemudian menginstruksikan otak agar sudut pandang dan pikiran kita berubah menjadi lebih baik dan selalu positif.
