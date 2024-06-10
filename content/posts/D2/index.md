@@ -7,6 +7,7 @@ summary: Pemula pasti akan memilih antara blogspot dan wordpress, dengan alasan 
 date: 2024-06-09
 tags: 
     - static
+    - hugo
 showComments: true
 showTableOfContents: true
 draft: false
