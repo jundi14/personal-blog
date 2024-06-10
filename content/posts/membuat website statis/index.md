@@ -102,7 +102,7 @@ Meski ini bisa diatasi menggunakan plugin tertentu dan memang membutuhkan pemaha
 
 Website statis juga tidak dapat melakukan hal-hal seperti memproses data atau membuat keputusan berdasarkan input pengguna.
 ***
-Penasaran ingin mencoba menggunakan website statis? Sampaikan di kolom komentar 😁
+Penasaran ingin mencoba menggunakan website statis?😁
 <div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
      crossorigin="anonymous"></script>
