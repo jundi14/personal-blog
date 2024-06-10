@@ -1,7 +1,7 @@
 ---
 title: Cerita Saat Saya Membuat Blog Untuk Pertama Kalinya 
 slug: membuat-blog
-description: 
+description: Saat pertama kali ingin membuat website pilihan ada pada blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas banyak.
 categories: Coretan
 summary: Pemula pasti akan memilih antara blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
 date: 2024-06-09
@@ -131,7 +131,7 @@ Pertimbangan ketika kita memasang plugin adalah jangan terlalu banyak plugin dan
 
 Karena ketika kita memasang plugin maka layanan hosting yang kita sewa akan terbebani, kecuali jika hosting yang kita sewa besar kapasitasnya dan bukan shared hosting.
 
-## Maintenance Berkala
+## Maintenance Website
 
 Secara berkala tentunya ada pembaharuan tema dan plugin.
 
@@ -170,7 +170,7 @@ Fakta Singkat menurut [wpzoom](https://www.wpzoom.com/blog/wordpress-statistics/
 Nah karena wordpress banyak digunakan, sehingga memang menjadi incaran utama hacker. Hacker punya banyak motivasi untuk membajak website.
 ![Motivasi untuk membajak website](/img/kisah-awal/motivasi-hacker.png "*Source: Hacker One Report 2021*")
 
-Celah keamananya yang paling banyak dari plugin, entah plugin jarang dilakukan pembaharuan ataupun pemilik website menggunakan plugin yang mengandung malware.
+Celah keamanan yang paling dominan itu dari plugin, entah plugin jarang dilakukan pembaharuan ataupun pemilik website menggunakan plugin yang mengandung malware.
 ![Persentase Penyebab Hack](/img/kisah-awal/persentase-penyebab-hack.png "*Source: Get Astra*")
 ***
 Itulah sedikit cerita ketika saya membuat website untuk pertama kalinya.
