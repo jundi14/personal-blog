@@ -4,7 +4,7 @@ slug: membuat-blog
 description: Saat pertama kali ingin membuat website pilihan ada pada blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas banyak.
 categories: Coretan
 summary: Pemula pasti akan memilih antara blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
-date: 2024-06-09
+date: 2024-06-11
 tags: 
     - static
     - hugo
@@ -13,8 +13,8 @@ showTableOfContents: true
 draft: false
 ---
 
-Baru membuat website?\
-Pemula pasti akan memilih antara blogspot dan wordpress.
+Pertama kali membuat website?\
+Pemula pasti akan memilih antara blogspot dan wordpress. Saya juga sama.
 
 Tentu dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
 
@@ -98,7 +98,7 @@ Lebih murah, karena dibagi 20 orang, yang harga temanya sendiri kisaran 299$-Okt
 
 ![Blocksy Premium Agency](/img/kisah-awal/blocksy-agency.png "*Harga Blocksy Premium | Source: [Blocksy Pricing](https://creativethemes.com/blocksy/pricing/?plan=lifetime)*")
 
-Saat ini harganya 499$, Luar biasa, harganya melonjak naik 200$ dalam kurung waktu kurang dari 3 tahun.
+Saat ini harganya 499$. Luar biasa, harganya melonjak naik 200$ dalam kurung waktu kurang dari 3 tahun.
 
 Nilai mata uang dollar terhadap rupiah per juni 2024 kisaran Rp 16.290. . 
 
@@ -181,5 +181,5 @@ Mungkin ada yang *ngeh* ketika kamu melihat footer di bawah kanan.
 
 Ya saya menggunakan hugo, hugo merupakan generator situs statis. Mengapa saya menggunakan website itu?
 
-Alasannya ada di [postingan ini](https://jundimubarok.com/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/). Selamat Membaca
+Alasannya ada di [postingan ini](https://jundimubarok.com/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/). Selamat Membaca😀
 
