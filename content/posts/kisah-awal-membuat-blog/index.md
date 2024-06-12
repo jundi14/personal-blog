@@ -14,7 +14,7 @@ draft: false
 ---
 
 Pertama kali membuat website?\
-Pemula pasti akan memilih antara blogspot dan wordpress. Saya juga sama.
+Pemula pasti akan memilih antara blogspot dan wordpress. Saya pun begitu.
 
 Tentu dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
 
