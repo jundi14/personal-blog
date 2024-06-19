@@ -16,11 +16,11 @@ Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu 
 
 Saya lahir dan dibesarkan di Majalengka, tempat di mana makanan enak, senyuman hangat, dan cerita-cerita lucu selalu tersedia. 
 
-Tetapi itu setelah saya pindah ke kabupaten lain, ya sebenarnya saya hanya "numpang" lahir di majalengka dan setelah beberapa bulan saya langsung pindah ke Kuningan.
+Tetapi itu setelah saya pindah ke kabupaten lain, ya hanya "numpang" lahir di Majalengka dan setelah beberapa bulan kemudian, langsung pindah ke Kuningan.
 
 Dalam keseharian, saya bekerja sebagai Operator Sekolah.
 
-Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, ya hanya tertarik!), karena menurut saya, hidup terlalu singkat untuk tidak melakukan hal-hal yang membuat diri kita penasaran.
+Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!), karena menurut saya, hidup terlalu singkat untuk tidak melakukan hal-hal yang membuat diri kita penasaran.
 
 Sebagai pribadi yang selalu penasaran, saya senang belajar hal-hal baru dan bertemu dengan orang-orang yang memiliki pandangan unik tentang kehidupan. Saya percaya bahwa setiap orang yang kita temui punya cerita yang bisa memperkaya perjalanan hidup kita.
 
