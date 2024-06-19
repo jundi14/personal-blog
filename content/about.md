@@ -8,11 +8,23 @@ showAuthor: false
 sharingLinks: false
 showPagination: false
 ---
-Nama saya Jundi, saya seorang mahasiswa di salah satu kampus swasta di Jawa Barat.
 
-Saya sebagai seorang mahasiswa tapi sebenarnya ngga begitu menikmati mata kuliah yang saya jalani, dan justru minat dengan bidang lain, ya ini salah satunya. Website.
+## Siapa Saya
+Halo! Nama saya Jundi, dan saya sangat senang kamu mampir ke halaman "About Me" ini. 
 
-Di setiap halaman ‘about me’ biasanya dituliskan beberapa prestasi yang sudah dilakukan.
+Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
+
+Saya lahir dan dibesarkan di Majalengka, tempat di mana makanan enak, senyuman hangat, dan cerita-cerita lucu selalu tersedia. 
+
+Tetapi itu setelah saya pindah ke kabupaten lain, ya sebenarnya saya hanya "numpang" lahir di majalengka dan setelah beberapa bulan saya langsung pindah ke Kuningan.
+
+Dalam keseharian, saya bekerja sebagai Operator Sekolah.
+
+Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, ya hanya tertarik!), karena menurut saya, hidup terlalu singkat untuk tidak melakukan hal-hal yang membuat diri kita penasaran.
+
+Sebagai pribadi yang selalu penasaran, saya senang belajar hal-hal baru dan bertemu dengan orang-orang yang memiliki pandangan unik tentang kehidupan. Saya percaya bahwa setiap orang yang kita temui punya cerita yang bisa memperkaya perjalanan hidup kita.
+
+## Langkah Awal
 
 Saya rasa launchingnya website ini sebuah menjadi prestasi tersendiri buat saya, karena ini berbeda dengan kebanyakan website lainnya yang bersifat dinamis terutama website personal dalam negeri, berbeda dengan luar indonesia sudah banyak sekali yang menggunakan website statis sebagai website personal mereka.
 
@@ -20,19 +32,16 @@ Kenapa seperti itu?
 
 Ya karena dokumentasi di semua website statis berbahasa inggris seluruhnya dan tidak banyak yang menuliskan tutorial secara lengkap dan mendetail tentang website statis dalam bahasa Indonesia.
 
-Tapi bukan berarti itu sebuah alasan, karena saya sendiri sering menggunakan bantuan mbah google untuk mengetahui maksud dari dokumentasi dari sebuah artikel berbahasa inggris, dan itu sangat membantu saya untuk membuat website ini tetap eksis.
+Saya membuat website ini dengan menggunakan layanan generator static web yaitu HUGO yang kalau kalian cek di google lebih cepat daripada website dinamis, tentu tidak mutlak ya masih ada hal teknis lain yang tidak bisa dijabarkan disini.
 
-Saya membuat website ini dengan menggunakan layanan generator static web yaitu HUGO yang kalau kalian cari di google lebih cepat daripada website dinamis, tentu tidak mutlak ya masih ada hal teknis lain yang tidak bisa saya jelaskan disini.
+## Kesimpulan
 
-Mungkin tulisan disini akan di-update jika memang diperlukan.
+Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu! 
 
-Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
+Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kita bisa berbagi cerita lucu atau bahkan membuat proyek bersama di masa depan. Terima kasih sudah meluangkan waktu untuk mengenal saya!
 
-Ya. Sudah terlihat bukan tombol kuningnya hehe.. 😁
-<a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+Salam hangat,\
+**Jundi**
 ***
-**UPDATE**:
-
-Hampir terlupa update halaman ini, bahwa pada tanggal 26 Juni 2023 kemarin saya sudah melakukan sidang skripsi ya walaupun dengan hasil yang kurang memuaskan tapi yang penting lulus dari penantian selama 7 tahun. *upss
-
-Untuk saat ini saya ingin fokus ke meningkatkan kualitas tulisan, rencana dalam jangka dekat ini mau ikutan kelas menulis online agar kalian bisa betah membaca tulisan yang saya ketik --semoga saja-- Aamiinn.
+Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
+<a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
