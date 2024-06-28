@@ -26,7 +26,7 @@ Sebagai pribadi yang selalu penasaran, saya senang belajar hal-hal baru dan bert
 
 ## Langkah Awal
 
-Saya rasa launchingnya website ini sebuah menjadi prestasi tersendiri buat saya, karena ini berbeda dengan kebanyakan website lainnya yang bersifat dinamis terutama website personal dalam negeri, berbeda dengan luar indonesia sudah banyak sekali yang menggunakan website statis sebagai website personal mereka.
+Saya rasa launchingnya website ini sebuah menjadi prestasi tersendiri buat saya, karena ini berbeda dengan kebanyakan website lainnya yang bersifat dinamis terutama website personal di Indonesia, berbeda dengan luar indonesia sudah banyak sekali yang menggunakan website statis sebagai website personal mereka.
 
 Kenapa seperti itu?
 
@@ -43,5 +43,5 @@ Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kit
 Salam hangat,\
 **Jundi**
 ***
-Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
+Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
 <a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
