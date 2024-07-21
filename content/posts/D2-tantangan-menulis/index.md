@@ -3,7 +3,7 @@ title: Memulai Tantangan, Menulis 100 Postingan Setiap Hari!
 slug: tantangan menulis 100 postingan
 description: 
 categories: Coretan
-summary: Dapatkah kamu menulis 100 postingan dalam 365 hari atau bahkan dalam 100 hari berturut-turut? Sepertinya ini hal yang perlu untuk kamu coba, melawan mitos mental writers block.
+summary: Dapatkah kamu memposting 100 tulisan dalam 365 hari atau bahkan dalam 100 hari berturut-turut? Sepertinya ini hal yang perlu untuk kamu coba, melawan mitos mental writers block.
 date: 2024-07-21
 tags: 
     - opini
@@ -12,11 +12,11 @@ showTableOfContents: false
 draft: false
 ---
 
-{{< lead >}}Dapatkah kamu menulis 100 postingan dalam 1 tahun atau bahkan dalam 100 hari berturut-turut?{{< /lead >}}
+{{< lead >}}Dapatkah kamu memposting 100 tulisan dalam 1 tahun atau bahkan dalam 100 hari berturut-turut?{{< /lead >}}
 
 ![100 days to offload](/img/challenge-writing/100days.png)
 
-Saya menemukan website [100 days](100daystooffload.com), ada tantangan menulis 100 postingan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) menulis 100 postingan setiap hari berturut-turut. 
+Saya menemukan website [100 days](100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut. 
 
 ![100 day writing challenge](/img/challenge-writing/listed.png)
 
@@ -30,7 +30,7 @@ Tidak ada batasan harus menulis dalam kategori tertentu, tidak perlu panjang, me
 
 Bisa tentang apa yang dilakukan hari ini, bahkan jika kamu punya peliharaan ceritakan bagaimana karakternya atau bahkan ceritakan tentang hobi kamu, bisa jadi orang yang membacanya akan menganggap itu menarik.
 
-Saya yakin tantangan 100 postingan ini akan menjadi bermanfaat di kemmudian harinya, entah itu untuk diri sendiri ataupun untuk orang lain, entah itu profit ataupun non-profit.
+Saya yakin tantangan memposting 100 tulisan ini akan menjadi bermanfaat di kemmudian harinya, entah itu untuk diri sendiri ataupun untuk orang lain, entah itu profit ataupun non-profit.
 
 Kadangkala mitos writer block yang menjadikan kita tidak yakin ingin menulis apa:
 * nulis apa ya ga ada ide..
