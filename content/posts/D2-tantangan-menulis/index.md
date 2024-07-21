@@ -1,6 +1,6 @@
 ---
-title: Memulai Tantangan, Menulis 100 Postingan Setiap Hari!
-slug: tantangan menulis 100 postingan
+title: Memulai Tantangan, Memposting 100 Tulisan Setiap Hari!
+slug: tantangan menulis 100 artikel
 description: 
 categories: Coretan
 summary: Dapatkah kamu menulis 100 postingan dalam 365 hari atau bahkan dalam 100 hari berturut-turut? Sepertinya ini hal yang perlu untuk kamu coba, melawan mitos mental writers block.
