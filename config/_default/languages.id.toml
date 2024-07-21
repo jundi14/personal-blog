@@ -7,7 +7,7 @@ rtl = false
 
 title = "Jundi Mubarok"
 #logo = "img/android-chrome-192x192.png"
-description = "Suka berbagi cerita tentang pengalaman sehari-hari dan membagikan tutorial seputar teknologi."
+description = "Suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi."
 copyright = "Copy, _right_ ? 🤨" #custom copyright footer
 dateFormat = "2 January 2006"
 
