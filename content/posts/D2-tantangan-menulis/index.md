@@ -41,6 +41,6 @@ Setiap tulisan pasti ada target pembacanya masing-masing, ada yang betah membaca
 
 Paling penting buat saya adalah rasa lega karena sudah menuangkan isi pikiran dan hati ke dalam bentuk tulisan. 
 
-Mulai hari ini saya akan megikuti tantangan menulis sebanyak 100 postingan dalam 365 hari, bahkan (semoga saja) 100 postingan selama 100 hari berturut-turut.
+Mulai hari ini saya akan megikuti tantangan memposting sebanyak 100 tulisan dalam 365 hari, bahkan (semoga saja) memposting 100 tulisan dalam 100 hari berturut-turut.
 
 Semoga bisa konsisten dalam tantangan kali ini 🙂
