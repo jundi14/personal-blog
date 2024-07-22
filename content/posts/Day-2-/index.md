@@ -12,9 +12,9 @@ showTableOfContents: false
 draft: false
 ---
 
-Pada saat ini ada banyak sekali layanan yang memudahkan kita untuk membuat website dan blog, sebut saja blogspot dan wordpress yang banyak digunakan untuk berbagai macam keperluan.
+Pada saat ini ada banyak layanan yang memudahkan kita untuk membuat website dan blog, sebut saja blogspot dan wordpress yang banyak digunakan untuk berbagai macam keperluan.
 
-Saat ini yang sedang nge-trend di para user threads yaitu [bearblog](bearblog.dev), platform blogging yang jauh lebih simpel dan minimalis dibandingkan wordpress dan blogspot.
+Saat ini yang sedang nge-trend di para user threads yaitu [bearblog](https://bearblog.dev), platform blogging yang jauh lebih simpel dan minimalis dibandingkan wordpress dan blogspot.
 
 1. Daftar
 2. Atur nama domain 
