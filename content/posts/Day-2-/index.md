@@ -9,16 +9,25 @@ tags:
     - blogging
 showComments: true
 showTableOfContents: false
-draft: true
+draft: false
 ---
 
-Pada saat ini ada banyak sekali layanan yang memudahkan kita untuk membuat website dan blog, sebut saja blogspot dan wordpress yang sering banyak digunakan untuk berbagai macam keperluan.
+Pada saat ini ada banyak sekali layanan yang memudahkan kita untuk membuat website dan blog, sebut saja blogspot dan wordpress yang banyak digunakan untuk berbagai macam keperluan.
 
-Saat ini yang sedang trend di threads yaitu [bearblog](bearblog.dev), platform yang simpel dan minimalis dibandingkan wordpress dan blogspot sehingga tidak terdistraksi oleh fitur yang kurang berguna bahkan yang tidak penting.
+Saat ini yang sedang nge-trend di para user threads yaitu [bearblog](bearblog.dev), platform blogging yang jauh lebih simpel dan minimalis dibandingkan wordpress dan blogspot.
 
-Pada saat kamu mendaftar kamu bisa langsung memilih tema dan bisa langsung menulis dalam format tulisan markdown, kelebihan utama bearblog ini sangat ringan 2,7 kb dan yang paling penting gratis.
+1. Daftar
+2. Atur nama domain 
+3. Pilih tema 
+4. Menulis
 
-Tentu saat kamu menggunakan layanan yang gratis pasti ada hal yang tidak kamu dapatkan ketika kamu akan upgrade, yaitu:
+Ya sesederhana itu menggunakan platform bearblog, simpel bukan?
+   
+Mungkin kamu perlu mempelajari hal baru, yaitu menulis dalam format markdown. Mudah kok, ada banyak tutorial di google dan bisa dipelajari juga pada dokumentasi platformnya.
+
+Platform ini gratis dan memiliki opsi upgrade ke fitur premium.
+
+Ini fitur yang kamu dapatkan ketika kamu upgrade, yaitu:
 * Custom domain
 * Unggah gambar
 * Analitik yang lebih detail
@@ -26,14 +35,20 @@ Tentu saat kamu menggunakan layanan yang gratis pasti ada hal yang tidak kamu da
 * Menambahkan kode ke dalam elemen `footer` dan `head`
 * Menghapus logo Bear
 
-Berarti jika kamu tetap pada layanan gratis, maka tidak akan mendapatkan semua fitur premium yang sudah disebutkan diatas, ditambah lagi bakal ada embel-embel **bearblog.dev** di belakang nama domain yang akan kamu buat.
+Jika tetap pada layanan gratis, maka tidak akan mendapatkan semua fitur premium yang sudah disebutkan diatas, cuma bisa menulis dan analitik yang sederhana ditambah bakal ada embel-embel **bearblog.dev** di belakang nama domain yang dibuat.
 
-Cocok memang untuk curcol maupun sebagai jurnal harian yang tanpa effort lebih untuk maintenance, seperti halnya wordpress yang banyak printilan yang membuat kita terdistraksi dari hal yang penting, yaitu menulis artikel.
+Ketika tujuannya hanya menulis dan menganggap mengunggah gambar itu tidak begitu penting, berarti layanan gratis sudah cukup.
 
-Ketika tujuannya hanya menulis dan menganggap mengunggah gambar itu tidak begitu penting, maka bukan masalah besar ketika tetap memilih pada layanan gratis.
+Menurut saya gambar dalam artikel cukup penting, apalagi ketika ingin menunjukkan sesuatu yang memang perlu ditampilkan. 
 
-Tapi menurut saya gambar dalam artikel cukup penting, apalagi ketika ingin menunjukkan sesuatu yang memang perlu ditampilkan. 
+Tulisan seputar tutorial misalnya, kadangkala perlu disisipkan gambar untuk mendukung tulisan, sehingga kebutuhan pembaca terpenuhi dan apa yang disampaikan oleh penulis juga bisa tersampaikan secara sempurna. 
 
-Tulisan seputar tutorial misalnya, biasanya perlu adanya gambar untuk mewakili hal-hal yang tidak bisa dideskripsikan dalam tulisan, sehingga apa yang ingin disampaikan lebih mudah dipahami. 
+Mungkin karena keterbatasan pada layanan gratisnya maka saya melihat beberapa orang yang memiliki platform blogging di bearblog memiliki website lain pada platform yang berbeda, karena memang bearblog ini mengutamakan kata-kata. 
 
-Saya melihat orang orang yang memiliki platform blogging di bearblog memiliki website lain pada platform yang berbeda, karena keterbatasan pada layanan gratisnya dan ketika upgrade pun harganya menurut saya terbilang cukup lumayan, kecuali dia **'minimalist enthusiast'** pasti akan upgrade 😁
+![Fitur Premium Bearblog](/img/day2-bearblog/upgrade-bearblog.png "Fitur Premium Saat Upgrade")
+
+Sangat cocok untuk curcol maupun sebagai jurnal harian 😅 karena platform bearblog hampir tidak ada maintenance bahkan bisa dibilang tidak ada, tidak seperti wordpress yang banyak printilan yang membuat kita terdistraksi dari hal yang penting, yaitu menulis artikel.
+
+Menurut saya harga yang ditawarkan terbilang cukup lumayan, kecuali dia **'minimalist enthusiast'** pasti akan ambil yang versi premiumnya 😁
+
+Mana nih diantara kalian yang sudah menggunakan bearblog, ?
