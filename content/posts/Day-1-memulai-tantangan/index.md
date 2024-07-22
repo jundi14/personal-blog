@@ -1,5 +1,5 @@
 ---
-title: Memulai Tantangan, Memposting 100 Tulisan Setiap Hari!
+title: Memulai Tantangan, Menulis Selama 100 Hari Berturut-turut!
 slug: tantangan menulis 100 artikel
 description: 
 categories: Coretan
