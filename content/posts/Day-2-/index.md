@@ -14,7 +14,7 @@ draft: true
 
 Pada saat ini ada banyak sekali layanan yang memudahkan kita untuk membuat website dan blog, sebut saja blogspot dan wordpress yang sering banyak digunakan untuk berbagai macam keperluan.
 
-Saat ini yang lagi trend di threads yaitu [bearblog](bearblog.dev), layanan website yang simpel dan minimalis dibandingkan wordpress dan blogspot sehingga tidak terdistraksi oleh fitur yang kurang berguna bahkan yang tidak penting.
+Saat ini yang sedang trend di threads yaitu [bearblog](bearblog.dev), platform yang simpel dan minimalis dibandingkan wordpress dan blogspot sehingga tidak terdistraksi oleh fitur yang kurang berguna bahkan yang tidak penting.
 
 Pada saat kamu mendaftar kamu bisa langsung memilih tema dan bisa langsung menulis dalam format tulisan markdown, kelebihan utama bearblog ini sangat ringan 2,7 kb dan yang paling penting gratis.
 
@@ -36,4 +36,4 @@ Tapi menurut saya gambar dalam artikel cukup penting, apalagi ketika ingin menun
 
 Tulisan seputar tutorial misalnya, biasanya perlu adanya gambar untuk mewakili hal-hal yang tidak bisa dideskripsikan dalam tulisan, sehingga apa yang ingin disampaikan lebih mudah dipahami. 
 
-Saya melihat orang orang yang memiliki platform blogging di bearblog memiliki website lain pada layanan yang berbeda, karena keterbatasan pada layanan gratisnya dan ketika upgrade pun harganya menurut saya terbilang cukup lumayan, kecuali dia **'minimalist enthusiast'** pasti akan upgrade 😁
+Saya melihat orang orang yang memiliki platform blogging di bearblog memiliki website lain pada platform yang berbeda, karena keterbatasan pada layanan gratisnya dan ketika upgrade pun harganya menurut saya terbilang cukup lumayan, kecuali dia **'minimalist enthusiast'** pasti akan upgrade 😁
