@@ -39,7 +39,7 @@ Jika tetap pada layanan gratis, maka tidak akan mendapatkan semua fitur premium 
 
 Ketika tujuannya hanya menulis dan menganggap mengunggah gambar itu tidak begitu penting, berarti layanan gratis sudah cukup.
 
-Menurut saya gambar dalam artikel cukup penting, apalagi ketika ingin menunjukkan sesuatu yang memang perlu ditampilkan. 
+Menurut saya gambar dalam artikel cukup penting, apalagi ketika ingin menunjukkan sesuatu yang memang perlu untuk ditampilkan. 
 
 Tulisan seputar tutorial misalnya, kadangkala perlu disisipkan gambar untuk mendukung tulisan, sehingga kebutuhan pembaca terpenuhi dan apa yang disampaikan oleh penulis juga bisa tersampaikan secara sempurna. 
 
@@ -51,4 +51,4 @@ Sangat cocok untuk curcol maupun sebagai jurnal harian 😅 karena platform bear
 
 Menurut saya harga yang ditawarkan terbilang cukup lumayan, kecuali dia **'minimalist enthusiast'** pasti akan ambil yang versi premiumnya 😁
 
-Mana nih diantara kalian yang sudah menggunakan bearblog, ?
+Mana nih diantara kalian yang sudah menggunakan bearblog?
