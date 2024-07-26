@@ -46,4 +46,4 @@ Aplikasi ini bisa jadi solusi untuk menghapus foto secara cepat tanpa ribet scro
 
 Akan tetapi pada aplikasi ini tidak menyediakan untuk memilah-milih video, mungkin karena jumlah foto biasanya lebih banyak dibandingkan jumlah video, jadi lebih mudah jika memilah-milih video yang ada di smartphone dibandingkan dengan foto.
 
-Kamu sudah pakai aplikasi sponge? Share pengalamanmu.
+Kamu sudah pakai [aplikasi sponge] (https://play.google.com/store/apps/details?id=com.prismtree.sponge)? Share pengalamanmu.
