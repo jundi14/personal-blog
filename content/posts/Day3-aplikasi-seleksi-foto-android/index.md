@@ -24,19 +24,21 @@ Nah, aplikasi ini bisa jadi solusi buat kamu yang punya masalah yang serupa.
 
 Aplikasi ini sangat membantu memilah foto dengan cukup cepat, kalau kamu pernah menggunakan tinder kurang lebih seperti itu.
 
+![](/img/day3-sponge/swipe.jpg)
+
 Swipe kiri untuk delete, swipe kanan untuk mempertahankan foto. Ketika di akhir nanti ditampilkan lagi foto yang kita pilih untuk mengonfirmasi foto yang sudah kita pilih untuk dihapus ataukah ingin direview kembali.
 
 Ada 2 mode untuk memilih kelompok foto, bisa sesuai bulan ataupun album, tapi untuk memilih kelompok foto sesuai album kita diharuskan untuk membayar versi premiumnya Rp 59.000. 
 
 Selain itu versi premiumnya akan diberikan opsi untuk mensortir sesuai nama, tanggal ataupun ukuran foto, dan beberapa fiitur lainnya.
 
-![Fitur Premium Sponge](/img/sponge/sponge-premium.jpg "Fitur Premium Sponge")
+![Fitur Premium Sponge](/img/day3-sponge/sponge-premium.jpg "Fitur Premium Sponge")
 
 Menurut saya versi gratisnya sudah cukup, kita me-review foto yang dikelompokkan pada setiap bulannya. 
 
 Saya cukup kaget setelah saya banyak menghapus foto di beberapa bulan kebelakang ternyata saya sudah menghapus ratusan mb foto yang tidak penting dan tidak perlu disimpan.
 
-![Review Photo](/img/sponge/seleksi-foto.jpg)
+![Review Photo](/img/day3-sponge/seleksi-foto.jpg)
 
 Lumayan kan sedikit membantu untuk memperluas memori penyimpanan di smartphone.
 
