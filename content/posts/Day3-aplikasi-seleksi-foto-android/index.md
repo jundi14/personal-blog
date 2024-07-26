@@ -9,7 +9,7 @@ tags:
     - android
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 Bukan sponge yang digunakan untuk mencuci piring ataupun benda kuning sahabatnya patrick.
