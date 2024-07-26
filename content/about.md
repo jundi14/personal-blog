@@ -54,3 +54,23 @@ Salam hangat,\
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
 
 <a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'M Certified Impactful Writer</title>
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <a href="LINK_AFFILIATE">
+        <img src="https://www.impactfulwriting.com/wp-content/uploads/2024/05/CIW.png" alt="Certified Impactful Writer">
+    </a>
+</body>
+</html>
