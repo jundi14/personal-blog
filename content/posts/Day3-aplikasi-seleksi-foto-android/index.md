@@ -28,7 +28,7 @@ Aplikasi ini sangat membantu memilah foto dengan cukup cepat, kalau kamu pernah 
 
 Swipe kiri untuk delete, swipe kanan untuk mempertahankan foto. Ketika di akhir nanti ditampilkan lagi foto yang kita pilih untuk mengonfirmasi foto yang sudah kita pilih untuk dihapus ataukah ingin direview kembali.
 
-Ada 2 mode untuk memilih kelompok foto, bisa sesuai bulan ataupun album, tapi untuk memilih kelompok foto sesuai album kita diharuskan untuk membayar versi premiumnya Rp 59.000. 
+Ada 2 mode untuk memilih kelompok foto, bisa sesuai bulan ataupun album, tapi untuk memilih kelompok foto sesuai album kita diharuskan untuk membayar versi premiumnya Rp 57.000. 
 
 Selain itu versi premiumnya akan diberikan opsi untuk mensortir sesuai nama, tanggal ataupun ukuran foto, dan beberapa fiitur lainnya.
 
