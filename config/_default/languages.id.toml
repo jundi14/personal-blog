@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
  [author]
    name = "Jundi Mubarok"
    image = "img/Author-compress.jpg"
-   headline = "Certified Writer by **[impactfulwriting](https://instagram.com/impactfulwriting)**" # dibawah foto profil homepage
+   headline = "Certified Writer by **[impactfulwriting](https://impactfulwriting.com)**" # dibawah foto profil homepage
    bio = "Menulis Kisah, Membagikan Inspirasi" #di profil artikel
    links = [
       { facebook = "https://facebook.com/jundi.post" },

@@ -34,6 +34,14 @@ Ya karena dokumentasi di semua website statis berbahasa inggris seluruhnya dan t
 
 Saya membuat website ini dengan menggunakan layanan generator static web yaitu HUGO yang kalau kalian cek di google lebih cepat daripada website dinamis, tentu tidak mutlak ya masih ada hal teknis lain yang tidak bisa dijabarkan disini.
 
+## Langkah Selanjutnya
+
+Beberapa waktu lalu saya baru saja menyelesaikan pembelajaran daring di **[impactfulwriting](https://impactfulwriting.com)** dan saya berhasil mendapatkan sertifat pertama saya di dunia kepenulisan.
+
+![Sertifikat Kepenulisan Impactful Writing](/img/about/Sertifikat-CIW-Batch-26.png)
+
+Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu di dunia kepenulisan.
+
 ## Kesimpulan
 
 Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu! 
@@ -43,5 +51,6 @@ Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kit
 Salam hangat,\
 **Jundi**
 ***
-Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
+Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
+
 <a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
