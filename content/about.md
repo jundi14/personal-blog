@@ -36,7 +36,7 @@ Saya membuat website ini dengan menggunakan layanan generator static web yaitu H
 
 ## Langkah Selanjutnya
 
-Beberapa waktu lalu saya baru saja menyelesaikan pembelajaran daring di **[impactfulwriting](https://impactfulwriting.com)** dan saya berhasil mendapatkan sertifat pertama saya di dunia kepenulisan.
+Beberapa waktu lalu saya baru saja menyelesaikan pembelajaran daring di **[impactfulwriting](https://certifiedimpactfulwriter.com)** dan saya berhasil mendapatkan sertifat pertama saya di dunia kepenulisan.
 
 ![Sertifikat Kepenulisan Impactful Writing](/img/about/Sertifikat-CIW-Batch-26.png)
 
