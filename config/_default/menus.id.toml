@@ -29,7 +29,7 @@
 [[main]]
   name = "Support"
   #pre = "mug-hot"
-  #pre = "ko-fi"
+  pre = "ko-fi"
   url = "https://www.nihbuatjajan.com/jundi"
   weight = 40
 
