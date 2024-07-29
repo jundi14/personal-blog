@@ -8,7 +8,7 @@ rtl = false
 title = "Jundi Mubarok"
 #logo = "img/android-chrome-192x192.png ?"
 description = "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
-copyright = "My opinions are my own **|** [Copy, _right_](http://creativecommons.org/licenses/by-nc/4.0/) ? 🤨" #custom copyright footer
+copyright = "⚡by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page). [My opinions](http://creativecommons.org/licenses/by-nc/4.0/) are my own 🧐" #custom copyright footer
 dateFormat = "2 January 2006"
 
  [author]
