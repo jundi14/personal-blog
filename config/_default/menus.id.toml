@@ -22,7 +22,7 @@
   weight = 20
 
 [[main]]
-  name = "Kategori"
+  name = "Categories"
   pageRef = "categories"
   weight = 30
 
@@ -36,19 +36,19 @@
 
 [[main]]
   name = "Teknologi"
-  parent = "Kategori"
+  parent = "Categories"
   pageRef = "categories/teknologi"
   weight = 20
 
 [[main]]
   name = "Blogging"
-  parent = "Kategori"
+  parent = "Categories"
   pageRef = "categories/blogging"
   weight = 25
 
 [[main]]
   name = "Coretan"
-  parent = "Kategori"
+  parent = "Categories"
   pageRef = "categories/coretan"
   weight = 30
 
