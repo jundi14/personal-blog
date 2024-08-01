@@ -9,14 +9,14 @@ tags:
     - 
 showComments: true
 showTableOfContents: true
-draft: false
+draft: true
 ---
 
 Ada 2 fakta bagai langit dan bumi, ada hal yang musti kita perhatikan saat berpindah dari tempat satu ke tempat yang lain, negatif dan positifnya pastilah ada. sebut saja yang paling sering terjadinya perbedaan adalah. **Adat**.
 
 Entah kamu mau berupaya keras mempertahankan adat istiadat asalmu tapi ketika kamu berkeinginan mengontrak di tempat yang baru bahkan diluar kota pasti ada adat yang berbeda, seperti kata peribahasa: Peribahasa “Di mana bumi dipijak, di situ langit dijunjung tinggi,”
 
-Jadi menghormati adat merupakan sebuah keharusan, meskipun ada hal parsial yang kontradiktif antara adat istiadat dan agama.
+Jadi menghormati adat merupakan sebuah keharusan, meskipun ada hal parsial yang kontradiktif antara adat istiadat dan agama, tetap dilihat juga apakah bisa membahayakan keyakinan kita, terutama aqidah jika kita seorang muslim.
 
 Beberapa waktu lalu saya terperanjat ketika istri saya bertemu dengan anak si empunya kontrakan-sebut saja teh pipit-, yang baru sebulan lebih kami tinggal disana.
 
