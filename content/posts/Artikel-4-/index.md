@@ -1,9 +1,9 @@
 ---
-title: Adat Tiap Tempat Memanglah Berbeda, Tapi Kenapa Seaneh Ini?
-slug: 
+title: Adat Tiap Tempat Berbeda-beda, Tapi Kenapa Seaneh Ini?
+slug: adat di berbagai tempat
 description: 
 categories: Coretan 
-summary: Ada 2 fakta bagai langit dan bumi, ada hal yang musti kita perhatikan saat berpindah dari tempat satu ke tempat yang lain, negatif dan positifnya pastilah ada. sebut saja yang paling sering terjadinya perbedaan adalah adat
+summary: Ada hal yang musti kita perhatikan saat berpindah dari tempat satu ke tempat yang lain, negatif dan positifnya pastilah ada. sebut saja yang paling sering terjadinya perbedaan adalah. Adat.
 date: 2024-08-01
 tags: 
     - 
