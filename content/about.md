@@ -55,7 +55,6 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
 
 <a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +63,7 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
     <title>I'M Certified Impactful Writer</title>
     <style>
         img {
-            max-width: 100%;
+            max-width: 40%;
             height: auto;
         }
     </style>
@@ -75,3 +74,6 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
     </a>
 </body>
 </html>
+
+<div id="wcb" class="carbonbadge wcb-d"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
