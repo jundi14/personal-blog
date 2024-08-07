@@ -15,7 +15,7 @@ showComments: true
 showTableOfContents: false
 
 ---
-Beberapa waktu lalu sempat viral dengan aplikasi AI (Artificial Intelligence) besutan [OpenAI](https://open.ai/) yaitu Chat GPT, untuk kamu yang pernah mencoba akan takjub dengan aplikasi AI satu ini yang bisa menjawab pertanyaan pertanyaan umum bahkan spesifik dan menjawab pertanyaan yang cukup rumit.
+Beberapa waktu lalu sempat viral dengan aplikasi AI (Artificial Intelligence) besutan [OpenAI](https://openai.com/) yaitu Chat GPT, untuk kamu yang pernah mencoba akan takjub dengan aplikasi AI satu ini yang bisa menjawab pertanyaan pertanyaan umum bahkan spesifik dan menjawab pertanyaan yang cukup rumit.
 
 Ya inilah aplikasi yang saat ini sedang saya coba, dan hasilnya cukup membuat saya geleng-geleng kepala, walaupun mungkin beberapa pertanyaan akan dijawab dengan jawaban yang sedikit _ngaco_ tapi ini masih bisa ditolerir berhubung ini masih dalam pengembangan.
 

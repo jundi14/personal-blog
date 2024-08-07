@@ -16,7 +16,7 @@ draft: false
 
 ![100 days to offload](/img/challenge-writing/100days.png)
 
-Saya menemukan website [100 days](100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut. 
+Saya menemukan website [100 days](https://100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut. 
 
 ![100 day writing challenge](/img/challenge-writing/listed.png)
 
