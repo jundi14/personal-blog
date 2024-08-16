@@ -14,6 +14,7 @@ dateFormat = "2 January 2006"
  [author]
    name = "Jundi Mubarok"
    image = "img/Author-compress.jpg"
+   imageQuality = 96
    headline = "Certified Writer by **[impactfulwriting](https://certifiedimpactfulwriter.com)**" # dibawah foto profil homepage
    bio = "Menulis Kisah, Membagikan Inspirasi" #di profil artikel
    links = [
