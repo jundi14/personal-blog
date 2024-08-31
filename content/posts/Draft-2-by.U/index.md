@@ -9,7 +9,7 @@ tags:
     - 
 showComments: true
 showTableOfContents: true
-draft: false
+draft: true
 ---
 
 Kartu Telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, ini hal yang cukup lumrah, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau ngga segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
