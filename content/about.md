@@ -57,3 +57,4 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
 ***
 <div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+<center><br>👻Proud member of <a href="https://darktheme.club/">darktheme.club</a>👻</br></center>
