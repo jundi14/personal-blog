@@ -36,7 +36,7 @@ Kartu dikirim dari Jakarta kalau tidak salah, dan kartu datang ke rumah dalam te
 
 Ya tapi itu dulu 😂, semoga sekarang masih free ongkir. 
 
-Kalau saya cek di aplikasi, ketika pengajuan kartu hilang/rusak ada pilihan"SIM Card diantar" pengirimannya menggunakan JNE dan ada biaya flat sebesar Rp 10.000 ke semua tujuan (kecuali wilayah NTT, Papua, dan Maluku saat ini masih belum bisa).
+Kalau saya cek di aplikasi, ketika pengajuan kartu hilang/rusak ada pilihan "SIM Card diantar" pengirimannya menggunakan JNE dan ada biaya flat sebesar Rp 10.000 ke semua tujuan (kecuali wilayah NTT, Papua, dan Maluku saat ini masih belum bisa).[^1]
 
 Saya rasa saat pertama kali kartu by.U ini diluncurkan belum banyak konter pulsa yang menyediakan, jadi biaya kirim kartu di gratiskan demi mendapatkan customer yang lebih cepat dengan cara yang mudah.
 
@@ -88,11 +88,8 @@ Ketika kita mengakses U-tainment juga akan mendapatkan U-stamp yang bisa ditukar
 ![Penukaran U-stamp by.U](/img/by-u/tukar-u-stamp.jpg "Tukar U-stamp")
 
 Asik kan? 
-
 Walaupun saya ngga seniat itu mengumpulkan U-stamp sampai sampai bisa ditukarkan ke berbagai merchandise mereka, hehe 😃
-
 ***
-
 ## Kekurangan by.U
 
 Sudah pasti dong ada kekurangan yang saya rasakan selama menggunakan provider by.U, ngga akan mungkin sempurna selama masih di dunia 😆, yuk kita bahas.
@@ -105,24 +102,5 @@ Maka kuota utama tetap yang akan terpakai, jadi aplikasi akan memprioritaskan ku
 
 ### Aplikasi Rada Lemot
 
-Entah karena 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^1]: Help Chat by.U
