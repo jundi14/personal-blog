@@ -1,5 +1,5 @@
 ---
-title: Inilah Dompet Digital Yang Sering Saya Gunakan
+title: DANA, Dompet Digital Yang Sering Saya Gunakan
 slug: dompet-digital-pilihanku
 description: Dompet digital menjadi sebuah keharusan di era digital ini, sebuah opsi transaksi yang hampir wajib di setiap lini kehidupan kita.
 categories: Teknologi
