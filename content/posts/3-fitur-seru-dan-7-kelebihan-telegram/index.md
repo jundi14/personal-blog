@@ -84,13 +84,9 @@ Fitur ini di beberapa aplikasi lain juga ada yang serupa, tetapi telegram lebih 
 
 Dan ini juga tergantung seberapa cepat jaringan internet di tempat kamu berada. hehehe…
 
-![](/img/11.jpg#center)
-
 ### Tampilan Telegram Mudah Dikustomisasi
 
 saya yakin dengan tampilan yang bisa diatur sesuai dengan keinginan kita maka tidak akan ada lagi ungkapan bosan terhadap tampilan yang itu itu saja
-
-![](/img/22.png#center)
 
 * Kamu bisa mengatur besar atau kecilnya huruf
 * Terdapat pilihan warna tema yang beragam
@@ -153,8 +149,6 @@ Media yang dimaksud adalah foto, berkas, tautan, dan suara.
 Media tersortir dengan tanggal kapan file itu dikirim, sehingga membuat kamu lebih mudah menemukan media yang kamu inginkan.
 
 Detail dengan ukuran file dan waktu diuploadnya, sehingga kamu bisa menentukan berapa besaran tagihan data yang kamu keluarkan.
-
-![](/img/33.jpg#center)
 
 ### Grup Dan Channel, apa bedanya?
 
