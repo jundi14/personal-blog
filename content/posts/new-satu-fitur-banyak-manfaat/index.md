@@ -32,7 +32,7 @@ Ini contoh dari hasil perintah yang saya tulis
 ![](/img/screenshot-rytrme.png)
 
 Pada tangkapan layar diatas ada menu **select tone**
-Menu ini tidak ada pada [chat gpt](https://jundimubarok.com/posts/apa-itu-chat-gpt/) yang pernah saya bahas.
+Menu ini tidak ada pada [chat gpt](https://jundi.web.id/posts/apa-itu-chat-gpt/) yang pernah saya bahas.
 
 Pada menu itu ada opsi bagaiman hasil yang kamu inginkan ini memiliki bahasa yang santai, formal, atau bahkan lucu dan ada banyak pilihan lainnya yang bisa kamu coba.
 

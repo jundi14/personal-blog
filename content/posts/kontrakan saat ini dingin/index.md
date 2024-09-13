@@ -15,7 +15,7 @@ Sudah hampir 4 bulan saya tinggal di kontrakan baru yang letaknya tidak begitu j
 
 Dingin yang menusuk hingga ke tulang bila sudah melewati area wisata J & J yang jaraknya kurang dari 4 km dari kontrakan bahkan saya belum pernah masuk ke area wisatanya, kecuali restonya saja.
 
-Untungnya sebelum saya menempati kontrakan dimana dikenal dengan daerah pendakian yang terkenal curam itu, saya sudah pernah menempati [kontrakan yang dahulu](https://jundimubarok.com/posts/kontrakan-pindah-tantangan-baru/) orang tua pernah menempati daerah tersebut, yang dikenal pas untuk kondisi cuaca, tidak panas dan cenderung sejuk, dan cukup strategis.
+Untungnya sebelum saya menempati kontrakan dimana dikenal dengan daerah pendakian yang terkenal curam itu, saya sudah pernah menempati [kontrakan yang dahulu](https://jundi.web.id/posts/kontrakan-pindah-tantangan-baru/) orang tua pernah menempati daerah tersebut, yang dikenal pas untuk kondisi cuaca, tidak panas dan cenderung sejuk, dan cukup strategis.
 
 <div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"

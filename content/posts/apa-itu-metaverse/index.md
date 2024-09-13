@@ -90,7 +90,7 @@ Perusahaan Facebook mengganti namanya menjadi Meta pada 29 Oktober lalu. Aplikas
 
 ### SoftBank
 
-SoftBank Vision Fund 2 yang merupakan anak usaha SoftBank menyuntikkan modal untuk Sandbox. Dalam startup ini, memungkinkan para pemainnya membangun, serta memonetisasi pengalaman bermain game secara virtual pada jaringan blockchain ethereum. Mereka dapat memakai[ token non-fungible (NFT)](https://jundimubarok.com/posts/apa-itu-nft/).
+SoftBank Vision Fund 2 yang merupakan anak usaha SoftBank menyuntikkan modal untuk Sandbox. Dalam startup ini, memungkinkan para pemainnya membangun, serta memonetisasi pengalaman bermain game secara virtual pada jaringan blockchain ethereum. Mereka dapat memakai[ token non-fungible (NFT)](https://jundi.web.id/posts/apa-itu-nft/).
 
 Saham Sandbox mayoritas dimiliki pengembang Animoca Brands. Bagi SoftBank, hal tersebut merupakan langkah pertama kalinya berinvestasi pada perusahaan yang mencetak cryptocurrency sendiri. Kapitalisasi sandbox juga hampir menyentuh 2 miliar dolar. Mereka memiliki sekitar 22% token sekarang ini.
 

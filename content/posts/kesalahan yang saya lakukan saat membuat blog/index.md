@@ -90,7 +90,7 @@ Ngga perlu cek tiap saat google adsense kamu, tetap kembali ke poin yang sudah d
 
 Dan yang terpenting jangan sampe karena rupiah yang ingin didapat lebih besar, blog kamu berubah menjadi papan iklan. 
 
-Manjakan pembaca dengan isi konten kamu yang berkualitas bukan dengan [iklan yang bejibun.](https://jundimubarok.com/posts/berapa-banyak-jumlah-iklan-yang-ideal/)
+Manjakan pembaca dengan isi konten kamu yang berkualitas bukan dengan [iklan yang bejibun.](https://jundi.web.id/posts/berapa-banyak-jumlah-iklan-yang-ideal/)
 
 ***
 

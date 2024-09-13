@@ -181,5 +181,5 @@ Mungkin ada yang *ngeh* ketika kamu melihat footer di bawah kanan.
 
 Ya saya menggunakan hugo, hugo merupakan generator situs statis. Mengapa saya menggunakan website itu?
 
-Alasannya ada di [postingan ini](https://jundimubarok.com/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/). Selamat Membaca😀
+Alasannya ada di [postingan ini](https://jundi.web.id/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/). Selamat Membaca😀
 

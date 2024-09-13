@@ -18,9 +18,9 @@ Saya akan menyebutkan beberapa fitur dan juga kelebihan telegram dibandingkan wh
 
 Telegram memiliki banyak kelebihan di bandingkan Whatsapp. Dengan berbagai fitur menarik yang ditambahkan di setiap updatenya menjadikan aplikasi ini semakin asyik digunakan untuk berkirim pesan antar teman maupun keluarga.
 
-Dari informasi yang Jundi dapatkan dari blog official telegram, dari hari ke hari fitur telegram ini semakin baik, sehingga akan memudahkan usernya untuk lebih efektif dalam menggukanakan aplikasi ini.
+Dari informasi yang saya dapatkan dari blog official telegram, dari hari ke hari fitur telegram ini semakin baik, sehingga akan memudahkan usernya untuk lebih efektif dalam menggukanakan aplikasi ini.
 
-Jundi akan menyebutkan 3 fitur menarik yang dimiliki telegram :
+saya akan menyebutkan 3 fitur menarik yang dimiliki telegram :
 
 ### Visible Votes
 
@@ -46,7 +46,7 @@ _Dan kamu memutuskan untuk membuat poling di grup telegram, kapan waktu terbaik 
 
 Fitur **Multiple Answer** ini menjadikan hal ini begitu mudah.
 
-Kamu bisa menggunakan membuat multiple answer untuk contoh kejadian yang Jundi sebutkan diatas, fitur yang berguna bukan?
+Kamu bisa menggunakan membuat multiple answer untuk contoh kejadian yang saya sebutkan diatas, fitur yang berguna bukan?
 
 ### Quiz Mode
 
@@ -84,13 +84,13 @@ Fitur ini di beberapa aplikasi lain juga ada yang serupa, tetapi telegram lebih 
 
 Dan ini juga tergantung seberapa cepat jaringan internet di tempat kamu berada. hehehe…
 
-![](/uploads/11.jpg#center)
+![](/img/11.jpg#center)
 
 ### Tampilan Telegram Mudah Dikustomisasi
 
-Jundi yakin dengan tampilan yang bisa diatur sesuai dengan keinginan kita maka tidak akan ada lagi ungkapan bosan terhadap tampilan yang itu itu saja
+saya yakin dengan tampilan yang bisa diatur sesuai dengan keinginan kita maka tidak akan ada lagi ungkapan bosan terhadap tampilan yang itu itu saja
 
-![](/uploads/22.png#center)
+![](/img/22.png#center)
 
 * Kamu bisa mengatur besar atau kecilnya huruf
 * Terdapat pilihan warna tema yang beragam
@@ -98,9 +98,9 @@ Jundi yakin dengan tampilan yang bisa diatur sesuai dengan keinginan kita maka t
 
 ### Berbagi File Besar? No Problem.
 
-Telegram mampu berkirim pesan dalam jumlah yang besar, terakhir dari info yang jundi ketahui, telegram mampu berkirim pesan sampai 1,5 gb.
+Telegram mampu berkirim pesan dalam jumlah yang besar, terakhir dari info yang saya ketahui, telegram mampu berkirim pesan sampai 1,5 gb.
 
-Berbeda dengan aplikasi sebelah, sewaktu Jundi kirim video beberapa puluh mb ada peringatan bahwa file yang anda kirim terlalu besar
+Berbeda dengan aplikasi sebelah, sewaktu saya kirim video beberapa puluh mb ada peringatan bahwa file yang anda kirim terlalu besar
 
 Maka dari itu di telegram ada banyak sekali grup atau channel yang membagikan kumpulan lagu-lagu dan bahkan film. Ssttt…
 
@@ -110,7 +110,7 @@ Dan saat kamu melihat gambar yang ada di grup ataupun channel, gambar tidak akan
 
 Menurut pembuat telegram (sebutkan namanya) telegram memiliki sistem keamanan yang baik dibandingkan whatsapp.
 
-Jundi akan menyebutkan beberapa poin dari sistem keamanan yang telegram miliki :
+saya akan menyebutkan beberapa poin dari sistem keamanan yang telegram miliki :
 
 #### Nomor kamu akan tetap aman,
 
@@ -134,7 +134,7 @@ Dengan menambahkan beberapa fitur tambahan pada secret chat yaitu :
 
 Menurut CEO telegram, Pavel Durov. Sistem **enkripsi end to end** yang telegram miliki bukan abal-abal seperti halnya whatsapp yang menurut pemaparannya tidak seperti apa yang digaungkan selama ini.
 
-Dari informasi yang Jundi dapatkan dari situs [tanya jawab Quora](https://id.quora.com/Apa-bukti-nyata-bahwa-chat-Whatsapp-kita-disadap-dan-diperjualbelikan-untuk-kebutuhan-iklan). Whatsapp justru menjual informasi yang ada di dalamnya untuk kebutuhan bisnis mereka.
+Dari informasi yang saya dapatkan dari situs [tanya jawab Quora](https://id.quora.com/Apa-bukti-nyata-bahwa-chat-Whatsapp-kita-disadap-dan-diperjualbelikan-untuk-kebutuhan-iklan). Whatsapp justru menjual informasi yang ada di dalamnya untuk kebutuhan bisnis mereka.
 
 Disana disebutkan bahwa ada iklan di instagram yang sesuai dengan percakapan di whatsapp, yang membahas tentang suatu produk software untuk presentasi.
 
@@ -154,7 +154,7 @@ Media tersortir dengan tanggal kapan file itu dikirim, sehingga membuat kamu leb
 
 Detail dengan ukuran file dan waktu diuploadnya, sehingga kamu bisa menentukan berapa besaran tagihan data yang kamu keluarkan.
 
-![](/uploads/33.jpg#center)
+![](/img/33.jpg#center)
 
 ### Grup Dan Channel, apa bedanya?
 
@@ -170,4 +170,4 @@ Biasanya yang dibagikan adalah berupa broadcast atau undangan, dan lain-lain.
 
 Dan persamaan diantara keduanya adalah, bisa membuat pinned post atau chat yang muncu dibagian atas ruang chat, agar semua anggota grup bisa membaca pesan itu, peraturan grup contohnya.
 
-Akan Jundi bahas tentang Grup Dan Channel di tulisan selanjutnya 🙂
+Akan saya bahas tentang Grup Dan Channel di tulisan selanjutnya 🙂
