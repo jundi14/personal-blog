@@ -16,7 +16,7 @@
   HUGO_VERSION = "0.111.2"
 
 [redirects]
-  from = "https://jundi.netlify.app"
+  from = "https://jundimubarok.com"
   to = "https://jundi.web.id"
   status = 301
   force = true
