@@ -9,7 +9,7 @@ mainSections = ["posts"]
 # robots = ""
 disableImageOptimization = false
 disableImageZoom = true
-backgroundImageWidth = 1100
+backgroundImageWidth = 1000
 #defaultBackgroundImage = "/img/cover.jpg" # used as default for background images 
 
 highlightCurrentMenuArea = true
