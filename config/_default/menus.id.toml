@@ -14,7 +14,7 @@
   name = "About"
   #pre = "blogger"
   pageRef = "about"
-  weight = 10
+  weight = 35
 
 [[main]]
   name = "Posts"
