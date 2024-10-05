@@ -22,7 +22,7 @@ smartTOCHideUnfocusedChildren = false
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true #show icon to switch theme 
   showScrollToTop = true
 
