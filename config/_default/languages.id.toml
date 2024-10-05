@@ -8,7 +8,7 @@ rtl = false
 title = "Jundi Mubarok"
 #logo = "img/android-chrome-192x192.png ?"
 description = "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
-copyright = "© { year } **|** [My opinions](http://creativecommons.org/licenses/by-nc/4.0/) are my own 🧐" #custom copyright footer
+copyright = "⚡by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page). [My opinions](http://creativecommons.org/licenses/by-nc/4.0/) are my own" #custom copyright footer
 dateFormat = "2 January 2006"
 
  [author]
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
    image = "img/author-baru.jpg"
    imageQuality = 30
    headline = "Certified Writer by **[impactfulwriting](https://certifiedimpactfulwriter.com)**" # dibawah foto profil homepage
-   bio = "Menulis Kisah, Membagikan Inspirasi" #di profil artikel ⚡by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page). 
+   bio = "Menulis Kisah, Membagikan Inspirasi" #di profil artikel. 
    links = [
       { facebook = "https://facebook.com/jundi.post" },
       { instagram = "https://instagram.com/jundi.mubarok" },
