@@ -53,7 +53,7 @@ Salam hangat,\
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
 
-<a href="https://www.nihbuatjajan.com/jundi" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+{{< button href="[Sawer Online](https://saweria.co/jundimubarok)" target="_blank" >}}Sawer Online{{< /button >}}
 ***
 
 <div id="wcb" class="carbonbadge wcb-d"></div>
