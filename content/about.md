@@ -7,6 +7,7 @@ showDate: false
 showAuthor: false
 sharingLinks: false
 showPagination: false
+showTableOfContents: false
 ---
 
 ## Siapa Saya
