@@ -53,7 +53,10 @@ Salam hangat,\
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
 
-{{< button href="[Sawer Online](https://saweria.co/jundimubarok)" target="_blank" >}}Sawer Online{{< /button >}}
+{{< button href="https://saweria.co/jundimubarok" target="_blank" >}}
+Support Me
+{{< /button >}}
+
 ***
 
 <div id="wcb" class="carbonbadge wcb-d"></div>
