@@ -1,18 +1,18 @@
 ---
 title: Nostalgia Media Sosial Generasi 90-an, Friendster Comeback? 
 slug: friendster kembali hadir
-description: 
+description: Media sosial friendster kembali lagi setelah lama ditinggalkan, akankah friendster bisa menyaingi kepopuleran media sosial lain yang saat sudah digunakan oleh puluhan juta orang?
 categories: Teknologi
-summary: Media sosial friendster kembali lagi setelah lama ditinggalkan, akankah friendster bisa menyaingi kepopuleran media sosial yang saat ini sudah digunakan oleh puluhan juta orang? 
-date: 2024-10-08
+summary: Media sosial friendster kembali lagi setelah lama ditinggalkan, akankah friendster bisa menyaingi kepopuleran media sosial lain yang saat sudah digunakan oleh puluhan juta orang? 
+date: 2024-10-10
 tags: 
     - media sosial
 showComments: true
-showTableOfContents: true
-draft: true
+showTableOfContents: false
+draft: false
 ---
 
-Kemarin ada yang share di threads tentang keberadaan media sosial lawas yang telah lama hilang atau lebih tepatnya tergeser kepopulerannya oleh facebook, media sosial apakah itu? 
+Beberapa waktu lalu ada yang share di threads tentang keberadaan media sosial lawas yang telah lama hilang atau lebih tepatnya tergeser kepopulerannya oleh facebook, media sosial apakah itu? 
 
 Ya. **Friendster**.
 
@@ -34,6 +34,8 @@ Entah friendster ini bakal menjadi tren lagi atau tidak, tapi yang pasti jumlah 
 
 ![Waitlist Friendster](/img/friendster/waitlist-friendster.png "Waitlist Friendster")
 
-Jujur saya ikut ikutan seperti halnya membuat akun threads, pengen tahu bagaimana ekosistem di friendster ini seperti apa.
+Jujur saya ikut ikutan seperti halnya membuat akun threads, ingin tahu ekosistem di friendster seperti apa.
 
-Ingin bernostalgia juga dengan friendster? Yuk gabung di link ini.
+Ingin bernostalgia juga dengan friendster? Yuk gabung ikut gabung juga dengan cara klik tombol tautan dibawah ini. 
+
+{{< button href="[link](https://app.friendster.com/auth/signup?inviteCode=4ebf8235-1a54-49cb-bad2-8a6c43d91c8b)" target="_blank" >}}Join Friendster{{< /button >}}
