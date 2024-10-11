@@ -14,12 +14,12 @@
   name = "About"
   #pre = "blogger"
   pageRef = "about"
-  weight = 35
+  weight = 20
 
 [[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Categories"
@@ -31,7 +31,7 @@
   #pre = "mug-hot"
   #pre = "ko-fi"
   url = "https://saweria.co/jundimubarok"
-  weight = 40
+  weight = 25
 
 
 #[[main]]
