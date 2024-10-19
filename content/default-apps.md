@@ -12,15 +12,15 @@ showTableOfContents: false
 
 Aplikasi yang sering saya gunakan dalam berbagai kategori:
 
-| No | Kategori | Aplikasi |Download Link|
-| - | - | - | - |
-|1|Office Document|Microsoft Office 
-|2|Password Manager|Bitwarden | [Bitwarden](https://bitwarden.com) 
-|3|Bookmark Manager|Raindrop| [Raindrop](https://raindrop.io) 
-|4|Note|Google Keep
-|5|Browser|Brave|[Brave](https://brave.com/id/download/)
-|6|Maps|Waze| [Waze](https://www.waze.com/apps/)
-|7|Search Engine|Google Seacrh
-|8|Instant Messaging|Whatsapp
-|9|PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-|10|Digital Bank|DANA|
+|Kategori | Aplikasi |Download Link|
+| - | - | - |
+|Office Document|Microsoft Office 
+|Password Manager|Bitwarden | [Bitwarden](https://bitwarden.com) 
+|Bookmark Manager|Raindrop| [Raindrop](https://raindrop.io) 
+|Note|Google Keep
+|Browser|Brave|[Brave](https://brave.com/id/download/)
+|Maps|Waze| [Waze](https://www.waze.com/apps/)
+|Search Engine|Google Seacrh
+|Instant Messaging|Whatsapp
+|PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+|Digital Bank|DANA|
