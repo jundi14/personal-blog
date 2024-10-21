@@ -1,18 +1,19 @@
 ---
-title: Default Apps
-slug: default apps
+title: Bookmark
+slug: Bookmark
 description: Aplikasi yang sering saya gunakan dalam berbagai kategori
 showReadingtime: false
 showWordCount: false
 showDate: false
-showAuthor: true
+showAuthor: false
 showPagination: false
 showTableOfContents: false
 ---
 
-Aplikasi yang sering saya gunakan dalam berbagai kategori:
+Hal-hal yang saya gunakan sehari-hari:
 
-|Kategori | Aplikasi |Download Link|
+## Aplikasi Desktop dan Smartphone
+|Kategori | Aplikasi |Download|
 | - | - | - |
 |Office Document|Microsoft Office 
 |Password Manager|Bitwarden | [Bitwarden](https://bitwarden.com) 
@@ -20,7 +21,8 @@ Aplikasi yang sering saya gunakan dalam berbagai kategori:
 |Note|Google Keep
 |Browser|Brave|[Brave](https://brave.com/id/download/)
 |Maps|Waze| [Waze](https://www.waze.com/apps/)
-|Search Engine|Google Seacrh
+|Search Engine|Google Search
 |Instant Messaging|Whatsapp
 |PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 |Digital Bank|DANA|
+|Text Editor|Write Monkey|[Write Monkey](https://writemonkey.com/download.php#latest)
