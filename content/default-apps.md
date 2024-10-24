@@ -1,6 +1,6 @@
 ---
-title: Bookmark
-slug: Bookmark
+title: Uses
+slug: uses
 description: Aplikasi yang sering saya gunakan dalam berbagai kategori
 showReadingtime: false
 showWordCount: false
