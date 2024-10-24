@@ -16,10 +16,6 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
-[selineAnalytics]
-  token = "4c49069059efa56"
-  enableTrackEvent = true
-
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
