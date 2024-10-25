@@ -1,6 +1,6 @@
 ---
 title: About me
-description: Profil singkat jundi mubarok
+description: Profil singkat Jundi
 showReadingtime: false
 showWordCount: false
 showDate: false
@@ -54,9 +54,8 @@ Salam hangat,\
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
 
-
 {{< button href="https://saweria.co/jundimubarok" target="_blank" >}}
-Support Me
+Support Me On Saweria
 {{< /button >}}
 
 ***
