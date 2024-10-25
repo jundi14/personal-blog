@@ -11,20 +11,15 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  #pre = "blogger"
-  pageRef = "about"
-  weight = 20
-
-[[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 30
+  name = "About"
+  #pre = "blogger"
+  pageRef = "about"
+  weight = 20
 
 [[main]]
   name = "Support"
@@ -33,6 +28,10 @@
   url = "https://saweria.co/jundimubarok"
   weight = 25
 
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 30
 
 #[[main]]
   #name = "Teknologi"
@@ -93,9 +92,14 @@
    name = "Tags"
    #pre = "tag"
    pageRef = "tags"
-   weight = 30
+   weight = 10
+
+ [[footer]]
+   name = "Uses"
+   pageRef = "uses"
+   weight = 20
 
  [[footer]]
    name = "Privacy"
-   pageRef = "/privacy"
-   weight = 10
+   pageRef = "privacy"
+   weight = 30

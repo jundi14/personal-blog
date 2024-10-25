@@ -11,7 +11,7 @@ showTableOfContents: false
 ---
 
 ## Siapa Saya
-Halo! Nama saya Jundi, dan saya sangat senang kamu mampir ke halaman "About Me" ini. 
+Halo Nama saya Jundi, dan saya sangat senang kamu mampir ke halaman "About Me" ini. 
 
 Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
 
