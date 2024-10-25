@@ -12,7 +12,7 @@ showTableOfContents: false
 
 Hal-hal yang saya gunakan sehari-hari:
 
-## Aplikasi Desktop dan Smartphone
+## Aplikasi Desktop & Smartphone
 |Kategori | Aplikasi |Download|
 | - | - | - |
 |Office Document|Microsoft Office 
@@ -25,4 +25,4 @@ Hal-hal yang saya gunakan sehari-hari:
 |Instant Messaging|Whatsapp
 |PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 |Digital Bank|DANA|
-|Text Editor|Write Monkey|[Write Monkey](https://writemonkey.com/download.php#latest)
+|Text Editor|Brackets|
