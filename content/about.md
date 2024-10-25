@@ -11,7 +11,7 @@ showTableOfContents: false
 ---
 
 ## Siapa Saya
-Halo Nama saya Jundi, dan saya sangat senang kamu mampir ke halaman "About Me" ini. 
+Halo Nama saya Jundi, dan saya senang kamu mampir ke halaman "About Me" ini. 
 
 Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
 
@@ -53,6 +53,7 @@ Salam hangat,\
 **Jundi**
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
+
 
 {{< button href="https://saweria.co/jundimubarok" target="_blank" >}}
 Support Me

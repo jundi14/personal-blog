@@ -90,7 +90,6 @@
 
  [[footer]]
    name = "Tags"
-   #pre = "tag"
    pageRef = "tags"
    weight = 10
 
