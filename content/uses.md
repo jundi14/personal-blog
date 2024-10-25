@@ -1,7 +1,7 @@
 ---
 title: Uses
 slug: uses
-description: Aplikasi yang sering saya gunakan dalam berbagai kategori
+description: Hal-hal yang saya gunakan sehari-hari dalam berbagai kategori
 showReadingtime: false
 showWordCount: false
 showDate: false
