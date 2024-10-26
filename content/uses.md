@@ -25,4 +25,4 @@ Hal-hal yang saya gunakan sehari-hari:
 |Instant Messaging|Whatsapp
 |PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 |Digital Bank|DANA|
-|Text Editor|Brackets|
+|Text Editor|Brackets|[Brackets.io](https://brackets.io)

@@ -57,5 +57,3 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
 {{< button href="https://saweria.co/jundimubarok" target="_blank" >}}
 Support Me On Saweria
 {{< /button >}}
-
-***
