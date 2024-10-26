@@ -106,8 +106,4 @@ smartTOCHideUnfocusedChildren = false
   cardView = false
   cardViewScreenWidth = false
 
-[umamiAnalytics]
-  websiteid = "7d6d8e9c-a8da-49dd-a3bc-6bb2e656ea64"
-  domain = "jundi.web.id"
-  enableTrackEvent = true
 
