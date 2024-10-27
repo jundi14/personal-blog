@@ -54,6 +54,8 @@ Salam hangat,\
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
 
-{{< button href="https://saweria.co/jundimubarok" target="_blank" >}}
-Support Me On Saweria
-{{< /button >}}
+{{< alert "mug-hot" >}}
+Support Me on [Saweria](https://saweria.co/jundimubarok)
+{{< /alert >}}
+***
+<div><script data-letterbirduser="jundi" src="https://letterbird.co/embed/v1.js"></script></div>
