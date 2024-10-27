@@ -14,7 +14,7 @@ Hal-hal yang saya gunakan sehari-hari:
 
 ## Aplikasi Desktop & Smartphone
 |Kategori | Aplikasi |Download|
-| - | - | - |
+| :--- | :--- | :--- |
 |Office Document|Microsoft Office 
 |Password Manager|Bitwarden | [Bitwarden](https://bitwarden.com) 
 |Bookmark Manager|Raindrop| [Raindrop](https://raindrop.io) 
