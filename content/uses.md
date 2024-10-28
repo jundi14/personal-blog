@@ -12,17 +12,16 @@ showTableOfContents: false
 
 Hal-hal yang saya gunakan sehari-hari:
 
-## Aplikasi Desktop & Smartphone
-|Kategori | Aplikasi |Download|
-| :--- | :--- | :--- |
-|Office Document|Microsoft Office 
-|Password Manager|Bitwarden | [Bitwarden](https://bitwarden.com) 
-|Bookmark Manager|Raindrop| [Raindrop](https://raindrop.io) 
-|Note|Google Keep
-|Browser|Brave|[Brave](https://brave.com/id/download/)
-|Maps|Waze| [Waze](https://www.waze.com/apps/)
-|Search Engine|Google Search
-|Instant Messaging|Whatsapp
-|PDF Viewer|Sumatra PDF|[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-|Digital Bank|DANA|
-|Text Editor|Brackets|[Brackets.io](https://brackets.io)
+## Software
+
+- Microsoft Office : Aplikasi perkantoran
+- [Bitwarden](https://bitwarden.com) : Untuk menyimpan data login website yang saya miliki, semoga aman 😁
+- [Raindrop](https://raindrop.io) : Bookmark Manager dengan pengkategorian yang mudah dan lebih menarik dibandingkan bookmark default browser
+- Google Keep : untuk menyimpan catatan penting
+- [Brave](https://brave.com/id/download/) : Browser yang otomatis memblokir iklan dan (katanya) mengutamakan privasi
+- [Waze](https://www.waze.com/apps/) : untuk mengarahkan ke tempat yang ingin saya kunjungi, lebih menarik dibandingkan google maps
+- Google Search : Mesin pencari yang sering saya gunakan.
+- [Whatsapp](https://www.whatsapp.com/download?lang=id_ID) : Aplikasi pesan instan, saya menggunakan ini agak 'terpaksa' karena orang di sekitar saya menggunakan ini, harapannya mereka menggunakan telegram 😁
+- [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) : Pembaca dokumen pdf, aplikasi ini sangat ringan.
+- [DANA](https://link.dana.id/ajak?r=dAmv7x) : Bank digital dan tidak (disarankan) untuk menyimpan uang dalam jumlah besar
+- [Brackets](https://brackets.io) : Text editor yang ringan dengan fitur yang cukup.
