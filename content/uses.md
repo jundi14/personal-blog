@@ -21,7 +21,7 @@ Hal-hal yang saya gunakan sehari-hari:
 - [Brave](https://brave.com/id/download/) : Browser yang otomatis memblokir iklan dan (katanya) mengutamakan privasi
 - [Waze](https://www.waze.com/apps/) : untuk mengarahkan ke tempat yang ingin saya kunjungi, lebih menarik dibandingkan google maps
 - Google Search : Mesin pencari yang sering saya gunakan.
-- [Whatsapp](https://www.whatsapp.com/download?lang=id_ID) : Aplikasi pesan instan, saya menggunakan ini agak 'terpaksa' karena orang di sekitar saya menggunakan ini, harapannya mereka menggunakan telegram 😁
+- [Whatsapp](https://www.whatsapp.com/download?lang=id_ID) : Aplikasi pesan instan, saya menggunakan aplikasi ini agak 'terpaksa' karena orang di sekitar rata-rata menggunakan whatsapp, harapannya mereka menggunakan telegram 😁
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) : Pembaca dokumen pdf, aplikasi ini sangat ringan.
 - [DANA](https://link.dana.id/ajak?r=dAmv7x) : Bank digital dan tidak (disarankan) untuk menyimpan uang dalam jumlah besar
 - [Brackets](https://brackets.io) : Text editor yang ringan dengan fitur yang cukup.

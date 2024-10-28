@@ -1,10 +1,10 @@
 ---
 title: "Posts"
-description: "Berisi kumpulan artikel di blog ini."
+description: "Berisi artikel dari seluruh kategori"
 cascade:
   showDate: true
   showAuthor: true
 ---
 {{< lead >}}
-Berisi seluruh artikel dari seluruh kategori.
+Berisi artikel dari seluruh kategori.
 {{< /lead >}}
