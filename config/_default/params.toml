@@ -1,6 +1,6 @@
 colorScheme = "cyan" #inspired by spelucin avocado noir congo
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -23,7 +23,7 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true #show icon to switch theme 
+  showAppearanceSwitcher = false #show icon to switch theme
   showScrollToTop = true
 
 [homepage]

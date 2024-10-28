@@ -7,7 +7,7 @@ rtl = false
 
 #title = ""
 logo = "default-monochrome-white.svg"
-secondaryLogo = "default-monochrome-black.svg"
+secondaryLogo = "default-monochrome-white.svg"
 description = "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
 copyright = "⚡by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page). [My opinions](http://creativecommons.org/licenses/by-nc/4.0/) are my own" #custom copyright footer
 dateFormat = "2 January 2006"
