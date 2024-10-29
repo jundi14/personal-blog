@@ -11,19 +11,20 @@ showTableOfContents: false
 ---
 
 ## Siapa Saya
-Halo Nama saya Jundi, dan saya senang kamu mampir ke halaman "About Me" ini. 
+
+Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini. 
 
 Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
-
-Saya lahir dan dibesarkan di Majalengka, tempat di mana makanan enak, senyuman hangat, dan cerita-cerita lucu selalu tersedia. 
-
-Tetapi itu setelah saya pindah ke kabupaten lain, ya hanya "numpang" lahir di Majalengka dan setelah beberapa bulan kemudian, langsung pindah ke Kuningan.
 
 Dalam keseharian, saya bekerja sebagai Operator Sekolah.
 
 Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!).
 
-Sebagai pribadi yang selalu penasaran, saya senang belajar hal-hal baru dan bertemu dengan orang-orang yang memiliki pandangan unik tentang kehidupan. Saya percaya bahwa setiap orang yang kita temui punya cerita yang bisa memperkaya perjalanan hidup kita.
+Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database. 
+
+Karena kebutuhan saya hanya mempublish artikel ringan tanpa harus menggunakan fitur khusus ataupun plugin yang memberatkan server.
+
+Sehingga menggunakan hugo dengan bantuan dokumentasi tema maupun tutorial di internet sudah cukup bagi saya membuat blog sederhana, tanpa embel-embel fitur yang kurang begitu penting.
 
 ## Langkah Awal
 
@@ -32,8 +33,6 @@ Saya rasa launchingnya website ini sebuah menjadi prestasi tersendiri buat saya,
 Kenapa seperti itu?
 
 Ya karena dokumentasi di semua website statis berbahasa inggris seluruhnya dan tidak banyak yang menuliskan tutorial secara lengkap dan mendetail tentang website statis dalam bahasa Indonesia.
-
-Saya membuat website ini dengan menggunakan layanan generator static web yaitu HUGO yang kalau kalian cek di google lebih cepat daripada website dinamis, tentu tidak mutlak ya masih ada hal teknis lain yang tidak bisa dijabarkan disini.
 
 ## Langkah Selanjutnya
 
@@ -47,10 +46,7 @@ Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu d
 
 Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu! 
 
-Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kita bisa berbagi cerita lucu atau bahkan membuat proyek bersama di masa depan. Terima kasih sudah meluangkan waktu untuk mengenal saya!
-
-Salam hangat,\
-**Jundi**
+Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kita bisa berbagi cerita atau bahkan membuat proyek bersama di masa depan. Terima kasih sudah meluangkan waktu untuk mengenal saya!
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. 
 
@@ -59,3 +55,12 @@ Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau 
 {{< alert "mug-hot" >}}
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 {{< /alert >}}
+
+Jika ada ketertarikan yang serupa kamu bisa menghubungi saya via formulir dibawah ini ataupun via media social yang saya taruh di bagian atas pada setiap artikel yang saya buat.
+
+Terima kasih!
+
+Salam hangat,\
+**Jundi**
+
+<script data-letterbirduser="jundi" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
