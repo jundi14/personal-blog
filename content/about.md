@@ -59,6 +59,3 @@ Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau 
 {{< alert "mug-hot" >}}
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 {{< /alert >}}
-***
-## Get in Touch
-<script data-letterbirduser="jundi" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
