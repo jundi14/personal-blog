@@ -1,6 +1,6 @@
 ---
 title: Serabi, Makanan Tradisional Yang Nikmat Dan Murah
-slug: serabi makanan tradisional
+slug: serabi makanan tradisional murah
 description: Serabi merupakan makanan tradisional yang nikmat dan murah dimasak menggunakan tungku yang berbahan tanah liat dengan menggunakan kayu bakar.
 categories: Coretan
 summary: Di pagi minggu yang cerah banyak sekali yang menjajakan makanan di pusat keramaian, salah satunya di OSG (Open Space Gallery) yang berlokasi diantara Desa Bojong dan Desa Linggasana. 
@@ -24,7 +24,9 @@ Walaupun begitu tetap saja mulut saya lebih tertarik dijajal serabi makanan trad
 
 Saya punya pengalaman yang kurang enak sewaktu membeli serabi.. 
 
-Di malam itu istri saya kepingin serabi yang dimasak dengan menggunakan kompor gas, setelah sampai lokasi ternyata ada masalah entah di regulator atau kompornya pokoknya si api tidak mau menyalama selama beberapa waktu hingga akhirnya kompor mau bisa menyala setelah hampir 15 menit, padahal saya cuma membeli 4 buah serabi saja, mau batal beli pun tidak enak karena mereka sudah berusaha menyalakan kompor, ya sudahlah saya hanya bisa menunggu sampai serabi matang.
+Di malam itu istri saya kepingin serabi yang dimasak dengan menggunakan kompor gas, setelah sampai lokasi ternyata ada masalah entah di regulator atau kompornya pokoknya si api tidak mau menyala selama beberapa waktu.
+
+Hingga akhirnya kompor mau bisa menyala setelah hampir 15 menit, padahal saya cuma membeli 4 buah serabi saja, mau batal beli pun tidak enak karena mereka sudah berusaha menyalakan kompor, ya sudahlah saya hanya bisa menunggu sampai serabi matang.
 
 Akhirnya, saya pulang dan ingin segera menyantap serabi hangat bersama dengan istri.\
 Pada gigitan pertama istri mencoba serabi hangat ini, akan tetapi...
