@@ -14,10 +14,10 @@ Hal-hal yang saya gunakan sehari-hari:
 
 ## Software
 
-- Microsoft Office : Aplikasi perkantoran
+- Microsoft Office : Aplikasi perkantoran yang sering saya gunakan untuk di kantor terutama aplikasi pengolah kata dan pengolah angka
 - [Bitwarden](https://bitwarden.com) : Untuk menyimpan data login website yang saya miliki
 - [Raindrop](https://raindrop.io) : Bookmark Manager dengan pengkategorian yang mudah dan lebih menarik dibandingkan bookmark default browser
-- Google Keep : untuk menyimpan catatan penting
+- Google Keep : Untuk menyimpan catatan penting dengan tampilan yang dapat di customize supaya lebih menarik
 - [Brave](https://brave.com/id/download/) : Browser yang otomatis memblokir iklan dan (katanya) mengutamakan privasi
 - [Waze](https://www.waze.com/apps/) : untuk mengarahkan ke tempat yang ingin saya kunjungi, lebih menarik dibandingkan google maps
 - Google Search : Mesin pencari yang sering saya gunakan
