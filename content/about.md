@@ -7,7 +7,7 @@ showDate: false
 showAuthor: false
 sharingLinks: false
 showPagination: false
-showTableOfContents: false
+showTableOfContents: true
 ---
 
 ## Siapa Saya
@@ -56,7 +56,7 @@ Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau 
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 {{< /alert >}}
 
-Jika ada ketertarikan yang serupa kamu bisa menghubungi saya via formulir dibawah ini ataupun via media social yang saya taruh di bagian atas pada setiap artikel yang saya buat.
+Jika ada ketertarikan yang serupa kamu bisa menghubungi saya via formulir dibawah ini ataupun via media sosial yang saya taruh di bagian atas pada setiap artikel yang saya buat.
 
 Terima kasih!
 
