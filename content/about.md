@@ -63,4 +63,6 @@ Terima kasih!
 Salam hangat,\
 **Jundi**
 
-<script data-letterbirduser="jundi" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
+<script data-letterbirduser="jundi" src="https://letterbird.co/embed/v1.js"></script>
+
+<a href="https://512kb.club"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
