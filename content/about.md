@@ -58,7 +58,31 @@ Terima kasih!
 
 Salam hangat,\
 **Jundi**
-<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe situs saya biar kamu nggak ketinggalan update paling fresh tiap minggunya. Klik subscribe sekarang, dapet inspirasi otomatis di inbox kamu! 💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah berlangganan 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
+
+<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe situs saya biar kamu nggak ketinggalan update fresh tiap minggunya. Klik subscribe sekarang, dapet inspirasi otomatis di inbox kamu! 💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah berlangganan 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'M Certified Impactful Writer</title>
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <a>
+        <img src="https://www.impactfulwriting.com/wp-content/uploads/2024/05/CIW.png" alt="Certified Impactful Writer">
+    </a>
+</body>
+</html>
+
 ---
 
 <a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
+
+![](img/Written-By-Human-Not-By-AI-Badge-white.svg)
