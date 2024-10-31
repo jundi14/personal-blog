@@ -61,4 +61,6 @@ Salam hangat,\
 
 ---
 
-<a href="https://512kb.club"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
+<a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
+
+<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="Langganan ke PencilBooth untuk mendapatkan artikel terbaru tiap pekannya." data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah berlangganan 😁" data-background-color="inherit" data-use-my-website-font="true"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
