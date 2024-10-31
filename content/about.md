@@ -46,8 +46,6 @@ Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu d
 
 Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu! 
 
-Jadi, jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kita bisa berbagi cerita atau bahkan membuat proyek bersama di masa depan. Terima kasih sudah meluangkan waktu untuk mengenal saya!
-
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. 
 
 Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
@@ -55,12 +53,6 @@ Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau 
 {{< alert "mug-hot" >}}
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 {{< /alert >}}
-
-Jika ada ketertarikan yang serupa kamu bisa menghubungi saya via formulir berikut: 
-
-<script data-letterbirduser="jundi" src="https://letterbird.co/embed/v1.js"></script>
-
-Atau via media sosial yang saya taruh di bagian atas pada setiap artikel yang saya buat.
 
 Terima kasih!
 
