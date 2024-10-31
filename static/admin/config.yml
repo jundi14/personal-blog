@@ -6,7 +6,7 @@ public_folder: /img
 collections:
   - name: 'Posts'
     label: 'posts'
-    folder: 'content/posts/*'
+    folder: 'content/posts/*/index.md'
     create: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
