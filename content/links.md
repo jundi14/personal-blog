@@ -1,7 +1,7 @@
 ---
 title: Links
 slug: links
-description: Kumpulan link hasil browsing saya di jagat maya
+description: Kumpulan link penting dan menarik yang saya kumpulkan
 showReadingtime: false
 showWordCount: false
 showDate: false
