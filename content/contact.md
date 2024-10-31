@@ -14,6 +14,6 @@ Jangan ragu untuk menyapa atau meninggalkan pesan. Siapa tahu, mungkin kita bisa
 
 <script data-letterbirduser="jundi" src="https://letterbird.co/embed/v1.js"></script>
 
-Terima kasih sudah meluangkan waktu untuk mengenal saya!
+Terima kasih sudah meluangkan waktu untuk meninggalkan pesan!
 
 
