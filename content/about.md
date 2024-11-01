@@ -57,7 +57,7 @@ Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 Salam hangat,\
 **Jundi**
 
-<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe situs saya biar kamu nggak ketinggalan update fresh tiap minggunya. Klik subscribe sekarang, dapet inspirasi otomatis di inbox kamu! 💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah berlangganan 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
+<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe blog saya biar kamu nggak ketinggalan update fresh tiap minggunya. Klik subscribe sekarang, dapet inspirasi otomatis di inbox kamu!💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah mau berlangganan blog ini 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
 
 <!DOCTYPE html>
 <html lang="en">
