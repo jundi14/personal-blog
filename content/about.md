@@ -48,13 +48,11 @@ Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui l
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. 
 
-Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.
-
+Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
+Terimakasih!
 {{< alert "mug-hot" >}}
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 {{< /alert >}}
-
-Terima kasih!
 
 Salam hangat,\
 **Jundi**
