@@ -32,7 +32,7 @@ Sayangnya pencilbooth dalam versi yang gratis hanya bisa menampung 100 email saj
 
 Walaupun begitu tidak ada salahnya untuk mencoba, toh mencari subscriber tidak semudah yang dibayangkan.
 
-Mungkin alasan sulitnya mencari subsciber karena pesan yang dikirimkan ke subscriber dianggap berlebihan sehingga dianggap spam oleh mereka.
+Mungkin alasan sulitnya mencari subscriber karena pesan yang dikirimkan ke subscriber dianggap berlebihan sehingga dianggap spam oleh mereka.
 
 Butuh konten berkualitas supaya mereka mau memasukkan email ke form yang telah disediakan.
 
