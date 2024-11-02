@@ -53,7 +53,7 @@ Walaupun saat ini sudah banyak serabi yang dimasak menggunakan kompor gas, tetap
 
 Oiya, saya hampir lupa, mungkin diantara kamu ada yang mengira ini serabi manis, tapi yang saya maksud disini adalah serabi asin.
 
-Sebenarnya saya juga sangat suka serabi manis, apalagi waktu bude membawakan serabi khas solo, serabi notosuman. Serabi ini lebih tipis dan lembut dari serabi asin yang biasa saya beli di sini dan digulung menggunakan daun pisang. Sangat nikmat rasanya, ditambah lagi ada varian topping yang beragam, rasa durian, keju dan lainnya
+Sebenarnya saya juga sangat suka serabi manis, apalagi waktu budhe membawakan serabi khas solo, serabi notosuman. Serabi ini lebih tipis dan lembut dari serabi asin yang biasa saya beli di sini dan digulung menggunakan daun pisang. Sangat nikmat rasanya, ditambah lagi ada varian topping yang beragam, rasa durian, keju dan lainnya
 
 ![Serabi Notosumon](/img/serabi/Serabi-Notosuman.jpg "*Source: Instagram/@srabinotosuman*")
 

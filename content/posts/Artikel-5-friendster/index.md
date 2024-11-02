@@ -38,4 +38,4 @@ Jujur saya ikut ikutan seperti halnya membuat akun threads, ingin tahu ekosistem
 
 Ingin bernostalgia juga dengan friendster? Yuk gabung ikut gabung juga dengan cara klik tombol tautan dibawah ini. 
 
-{{< button href="[link](https://app.friendster.com/auth/signup?inviteCode=4ebf8235-1a54-49cb-bad2-8a6c43d91c8b)" target="_blank" >}}Join Friendster{{< /button >}}
+{{< button href="https://app.friendster.com/auth/signup?inviteCode=4ebf8235-1a54-49cb-bad2-8a6c43d91c8b" target="_blank" >}}Join Friendster{{< /button >}}

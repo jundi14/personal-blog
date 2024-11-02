@@ -14,4 +14,5 @@ draft: true
 Kumpulan link yang menginspirasi saya entah itu isi kontennya ataupun tampilan desain websitenya
 
 Blogroll:
+- Kev Quirk
 - 
