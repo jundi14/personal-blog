@@ -32,7 +32,7 @@ Sayangnya pencilbooth dalam versi yang gratis hanya bisa menampung 100 email saj
 
 Walaupun begitu tidak ada salahnya untuk mencoba, toh mencari subscriber tidak semudah yang dibayangkan.
 
-Mungkin alasan sulitnya mencari subsciber karena pesan yang dikirimkan ke subscriber dianggap berlebihan sehingga dianggap spam oleh mereka.
+Mungkin alasan sulitnya mencari subscriber karena pesan yang dikirimkan ke subscriber dianggap berlebihan sehingga dianggap spam oleh mereka.
 
 Butuh konten berkualitas supaya mereka mau memasukkan email ke form yang telah disediakan.
 
@@ -46,4 +46,9 @@ Jika saja jatah kuota 100 email ini sudah penuh, mungkin perlu diadakan syukuran
 
 Buat kamu yang ingin mencoba layanan pencilbooth, silahkan klik [link ini](https://pencilbooth.com)
 
+<<<<<<< HEAD
 Kalau kamu layanan apa yang digunakan untuk email newsletter?
+=======
+Kalau kamu layanan apa yang digunakan untuk email newsletter?
+<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe blog saya biar kamu nggak ketinggalan update fresh tiap minggunya. Klik subscribe sekarang, dan dapatkan inspirasi otomatis di inbox kamu!💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah mau berlangganan blog ini 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
+>>>>>>> origin/master
