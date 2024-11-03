@@ -8,7 +8,7 @@ enableCodeCopy = true
 mainSections = ["posts"]
 # robots = ""
 disableImageOptimization = false
-disableImageZoom = true
+disableImageZoom = false
 backgroundImageWidth = 1000
 #defaultBackgroundImage = "/img/cover.jpg" # used as default for background images 
 
