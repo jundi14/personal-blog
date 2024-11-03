@@ -44,4 +44,6 @@ Seperti ini template draft email yang akan dikirim ke subscriber pencilbooth
 
 Jika saja jatah kuota 100 email ini sudah penuh, mungkin perlu diadakan syukuran kecil-kecilan, hehe.
 
+Kalau kamu layanan apa yang digunakan untuk email newsletter?
+
 Buat kamu yang ingin mencoba layanan pencilbooth, silahkan klik [link ini](https://pencilbooth.com)
