@@ -45,10 +45,3 @@ Seperti ini template draft email yang akan dikirim ke subscriber pencilbooth
 Jika saja jatah kuota 100 email ini sudah penuh, mungkin perlu diadakan syukuran kecil-kecilan, hehe.
 
 Buat kamu yang ingin mencoba layanan pencilbooth, silahkan klik [link ini](https://pencilbooth.com)
-
-<<<<<<< HEAD
-Kalau kamu layanan apa yang digunakan untuk email newsletter?
-=======
-Kalau kamu layanan apa yang digunakan untuk email newsletter?
-<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="✨Subscribe blog saya biar kamu nggak ketinggalan update fresh tiap minggunya. Klik subscribe sekarang, dan dapatkan inspirasi otomatis di inbox kamu!💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah mau berlangganan blog ini 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
->>>>>>> origin/master
