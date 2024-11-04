@@ -65,6 +65,6 @@ Memang kuliner di Indonesia cukup beragam bahkan dari satu nama makanan bisa ber
 
 Walaupun saya sudah menemukan lokasi penjual serabi yang paling cocok di sini, tapi serabi di tempat nenek jauh lebih cocok buat saya. 
 
-Apalagi membeli disaat matahari belum keluar seutuhnya, cuaca masih sedikit dingin sambil menikmati hangatnya serabi.
+Apalagi membelinya disaat matahari belum keluar seutuhnya, cuaca masih sedikit dingin sambil menikmati hangatnya serabi.
 
 Punya makanan tradisional favorit sampai mengingatkan di masa kecilmu?
