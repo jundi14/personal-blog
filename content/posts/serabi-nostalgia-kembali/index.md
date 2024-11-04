@@ -22,7 +22,7 @@ Ya, saya sangat suka makanan manis tetapi tidak menggeser posisi makanan gurih, 
 
 Walaupun begitu tetap saja lidah saya lebih tertarik dijajal serabi, makanan tradisional yang enak dan murah.
 
-Ngomong-ngomong tentang serabi saya punya pengalaman kurang enak ketika membeli serabi.. 
+Ngomong-ngomong tentang serabi saya punya pengalaman kurang enak ketika membeli serabi...
 
 Di malam itu istri saya kepingin serabi yang dimasak dengan menggunakan kompor gas, setelah sampai lokasi ternyata ada masalah entah di regulator atau kompornya pokoknya api tidak mau menyala selama beberapa waktu.
 
