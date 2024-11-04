@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 description: Profil singkat Jundi
 showReadingtime: false
 showWordCount: false
