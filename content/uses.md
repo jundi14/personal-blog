@@ -24,5 +24,5 @@ Hal-hal yang saya gunakan sehari-hari:
 - [Whatsapp](https://www.whatsapp.com/download?lang=id_ID) : Aplikasi pesan instan, saya menggunakan aplikasi ini agak 'terpaksa' karena orang di sekitar rata-rata menggunakan whatsapp, harapannya mereka menggunakan telegram 😁
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) : Pembaca dokumen pdf yang sangat ringan
 - [DANA](https://link.dana.id/ajak?r=dAmv7x) : Bank digital dan tidak (disarankan) untuk menyimpan uang dalam jumlah besar
-- [Brackets](https://brackets.io) : Text editor yang ringan dengan fitur yang cukup
-- [WriteMonkey](https://writemonkey.com/wm3/) : Aplikasi catatan (markdown) untuk pembuatan draft artikel 
+- [Zed Dev](https://zed.dev) : Text editor yang sangat powerfull
+- [WriteMonkey](https://writemonkey.com/wm3/) : Aplikasi catatan (markdown) untuk pembuatan draft artikel
