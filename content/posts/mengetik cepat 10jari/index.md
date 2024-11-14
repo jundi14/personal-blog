@@ -7,8 +7,8 @@ categories: 'Coretan '
 date: 2021-11-26
 showComments: true
 showTableOfContents: true
-
 ---
+
 5 tahun yang lalu saya mempunyai target. Salah satunya yaitu mengetik cepat dengan menggunakan 10 jari!
 
 Salah satu mindset yang sangat ‘sinting’ yaitu, saya berpikir saya nggak akan bisa, karena mungkin akan membutuhkan waktu yang lama.
@@ -17,7 +17,7 @@ Dan setelah 2 tahun, akhirnya saya bisa mengetik cepat 10 jari. Akan jauh lebih 
 
 Yaa lumayanlah, 70 kata per menit tanpa huruf kapital dan tanda baca, jadi nggak terlalu sulit. 😀 Semoga bisa meningkat.
 
-Untuk saat ini saya berlatih untuk mengetik cepat angka, karena sebelumnya hanya huruf dan sedikit tanda baca yang kumampu.
+Untuk saat ini saya berlatih untuk mengetik cepat angka, karena sebelumnya hanya huruf dan sedikit tanda baca yang saya mampu.
 
 Menurutku, kemampuan ini harus kamu miliki, karena beberapa alasan:
 
@@ -41,7 +41,7 @@ Dengan sedikit kemampuan mengetik cepat, maka masalah tadi terpecahkan.
 
 Ada lagi poin yang perlu ditambahkan?
 
-***
+---
 
 ## Situs Yang Saya Gunakan Untuk Berlatih
 

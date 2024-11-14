@@ -3,16 +3,16 @@ title: Serabi, Makanan Tradisional Yang Nikmat Dan Murah
 slug: serabi makanan tradisional murah
 description: Serabi merupakan makanan tradisional yang nikmat dan murah dimasak menggunakan tungku yang berbahan tanah liat dengan menggunakan kayu bakar.
 categories: Coretan
-summary: Di pagi minggu yang cerah banyak sekali yang menjajakan makanan di pusat keramaian, salah satunya di OSG (Open Space Gallery) yang berlokasi diantara Desa Bojong dan Desa Linggasana. 
+summary: Di pagi minggu yang cerah banyak sekali yang menjajakan makanan di pusat keramaian, salah satunya di OSG (Open Space Gallery) yang berlokasi diantara Desa Bojong dan Desa Linggasana.
 date: 2024-10-28
-tags: 
-    - kuliner
+tags:
+  - kuliner
 showComments: true
 showTableOfContents: true
 draft: false
 ---
 
-Di pagi minggu yang cerah banyak sekali yang menjajakan makanan di pusat keramaian, salah satunya di OSG (Open Space Gallery) yang berlokasi di antara Desa Bojong dan Desa Linggasana. 
+Di pagi minggu yang cerah banyak sekali yang menjajakan makanan di pusat keramaian, salah satunya di OSG (Open Space Gallery) yang berlokasi di antara Desa Bojong dan Desa Linggasana.
 
 Lokasi yang cukup ramai dikunjungi untuk jalan santai atau olahraga ringan sambil memilih kira-kira kulakan mana yang cocok untuk sekedar melihat atau bahkan dibeli produknya.
 
@@ -31,9 +31,9 @@ Hingga akhirnya kompor bisa menyala setelah hampir 15 menit, padahal saya cuma m
 Akhirnya, saya pulang dan ingin segera menyantap serabi hangat bersama dengan istri.\
 Pada gigitan pertama istri mencoba serabi hangat ini, akan tetapi...
 
-+ *"Aa, kok rasa serabinya asemm..."*
+- _"Aa, kok rasa serabinya asemm..."_
 
-- *"Eh iya dekk...kenapa masih dijual ya padahal sudah asem gini, pasti mereka lebih tahu dong usia adonannya"*
+* _"Eh iya dekk...kenapa masih dijual ya padahal sudah asem gini, pasti mereka lebih tahu dong usia adonannya"_
 
 Walhasil gondok lah kami berdua, serabi harga Rp2000/pcs itupun akhirnya dibuang.
 
@@ -43,7 +43,7 @@ Saya telah menemukan penjual serabi yang cukup ramai ternyata tidak jauh dari ko
 
 Dan baru-baru ini saya telah menemukan lokasi penjual serabi yang lebih cocok di lidah saya, dan harganya lebih murah Rp500.
 
-![Serabi, Makanan Tradisional Berharga Murah](/img/serabi/serabi_kocor.jpg "*Source: iNews.id/Trisna Purwoko*")
+![Serabi, Makanan Tradisional Berharga Murah](/img/serabi/serabi_kocor.jpg '*Source: iNews.id/Trisna Purwoko*')
 
 Makanan berbahan baku tepung beras ini hampir tidak ada bosannya memang, sejak SD hampir setiap hari saya membeli serabi sehabis sholat shubuh.
 
@@ -55,7 +55,7 @@ Oiya, saya hampir lupa, mungkin diantara kamu ada yang mengira ini serabi manis,
 
 Sebenarnya saya juga sangat suka serabi manis, apalagi waktu budhe membawakan serabi khas solo, serabi notosuman. Serabi ini lebih tipis dan lembut dari serabi asin yang biasa saya beli di sini dan digulung menggunakan daun pisang. Sangat nikmat rasanya, ditambah lagi ada varian topping yang beragam, rasa durian, keju dan lainnya
 
-![Serabi Notosumon](/img/serabi/Serabi-Notosuman.jpg "*Source: Instagram/@srabinotosuman*")
+![Serabi Notosumon](/img/serabi/Serabi-Notosuman.jpg '*Source: Instagram/@srabinotosuman*')
 
 Sayangnya di sini ngga ada yang menjual serabi manis, kalaupun ada pasti saya sering mampir untuk membelinya 😋
 
@@ -63,7 +63,7 @@ Saya kudet, ternyata varian serabi begitu banyak, tapi sayangnya di sini hanya a
 
 Memang kuliner di Indonesia cukup beragam bahkan dari satu nama makanan bisa berbeda rasanya.
 
-Walaupun saya sudah menemukan lokasi penjual serabi yang paling cocok di sini, tapi serabi di tempat nenek jauh lebih cocok buat saya. 
+Walaupun saya sudah menemukan lokasi penjual serabi yang paling cocok di sini, tapi serabi di tempat nenek jauh lebih cocok buat saya.
 
 Apalagi membelinya disaat matahari belum keluar seutuhnya, cuaca masih sedikit dingin sambil menikmati hangatnya serabi.
 
