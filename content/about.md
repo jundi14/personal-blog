@@ -12,7 +12,7 @@ showTableOfContents: true
 
 ## Siapa Saya
 
-Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini. 
+Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini.
 
 Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
 
@@ -20,7 +20,7 @@ Dalam keseharian, saya bekerja sebagai Operator Sekolah.
 
 Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!).
 
-Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database. 
+Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database.
 
 Karena kebutuhan saya hanya mempublish artikel ringan tanpa harus menggunakan fitur khusus ataupun plugin yang memberatkan server.
 
@@ -44,9 +44,9 @@ Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu d
 
 ## Kesimpulan
 
-Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu! 
+Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu!
 
-Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif. 
+Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif.
 
 Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
 Terimakasih!
@@ -56,8 +56,6 @@ Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 
 Salam hangat,\
 **Jundi**
-
-<div style="display: none" class="pb-subscribe-form" data-org="62b38849-7bf2-445b-bad4-eb84b7354dce" data-description="Klik ✨subscribe sekarang, dan dapatkan inspirasi otomatis tiap minggu di inbox kamu!💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="Kamu berhasil berlangganan" data-confirmation-msg="Terimakasih sudah mau berlangganan blog ini 😁" data-background-color="inherit"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -82,6 +80,7 @@ Salam hangat,\
 ---
 
 <a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
-<p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>
 
 ![](img/Written-By-Human-Not-By-AI-Badge-white.svg)
+
+<p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>
