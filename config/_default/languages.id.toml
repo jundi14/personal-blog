@@ -1,9 +1,11 @@
-languageCode = "id"
-languageName = "Indonesian"
-displayName = "ID"
-isoCode = "id"
-weight = 1
-rtl = false
+[languages]
+  [languages.id]
+    languageCode = "id"
+    languageName = "Indonesian"
+    displayName = "ID"
+    isoCode = "id"
+    weight = 1
+    rtl = false
 
 title = "Jundi Mubarok"
 #logo = "default-monochrome-white.svg"
@@ -17,7 +19,7 @@ dateFormat = "2 January 2006"
    image = "img/author-baru.jpg"
    imageQuality = 30
    headline = "Certified Writer by **[CIW](https://certifiedimpactfulwriter.com)**" # dibawah foto profil homepage
-   bio = "Write Stories Share Inspiration" #di profil artikel. 
+   bio = "Write Stories Share Inspiration" #di profil artikel.
    links = [
 #     {  facebook = "https://facebook.com/jundi.mubarok.14" },
       { instagram = "https://instagram.com/jundi.mubarok" },
@@ -37,7 +39,7 @@ dateFormat = "2 January 2006"
 #     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
-#     { hashnode = "https://username.hashnode.dev" },     
+#     { hashnode = "https://username.hashnode.dev" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },

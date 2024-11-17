@@ -1,7 +1,6 @@
 colorScheme = "cyan" #inspired by spelucin avocado noir congo
 defaultAppearance = "dark"
 autoSwitchAppearance = false
-
 enableSearch = true
 enableCodeCopy = true
 
@@ -10,7 +9,7 @@ mainSections = ["posts"]
 disableImageOptimization = false
 disableImageZoom = false
 backgroundImageWidth = 1000
-#defaultBackgroundImage = "/img/cover.jpg" # used as default for background images 
+#defaultBackgroundImage = "/img/cover.jpg" # used as default for background images
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -105,5 +104,3 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
-
-

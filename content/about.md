@@ -50,9 +50,9 @@ Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pemba
 
 Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
 Terimakasih!
-{{< alert "mug-hot" >}}
+{{<alert "mug-hot">}}
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
-{{< /alert >}}
+{{</alert>}}
 
 Salam hangat,\
 **Jundi**
