@@ -5,12 +5,12 @@
 
 [build.environment]
   NODE_ENV = "production"
-  GO_VERSION = "1.22.2"
-  TZ = "Asia/Jakarta"
+  GO_VERSION = "1.16"
+  TZ = "Asia/Jakarta" 
 
 [context.production.environment]
-  HUGO_VERSION = "0.123.7"
+  HUGO_VERSION = "0.111.2"
   HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.123.7"
+  HUGO_VERSION = "0.111.2"
